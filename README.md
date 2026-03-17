@@ -202,6 +202,31 @@ Four labs, each tied directly to one research question in my PhD thesis statemen
 
 
 ---
+
+## 📚 Logical Learning — Security+ SY0-701 Study Site
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/" target="_blank">
+    <img src="https://img.shields.io/badge/Logical_Learning-Live%20Site-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Logical Learning"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnelHenning2-collab/logical-learning" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-logical--learning-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Logical Learning Repo"/>
+  </a>
+</p>
+
+An interactive Security+ SY0-701 study site I built for my own exam prep — 4 modules, each with visual concept explainers and a 12-question scored quiz. All content is grounded in the SY0-701 exam objectives. Progress is saved locally so each session picks up where you left off.
+
+| Module | Domain | Topics | Questions |
+|---|---|---|---|
+| [**Threats & Attacks**](https://anelhenning2-collab.github.io/logical-learning/threats.html) | Domain 1 (~22%) | Threat actors, malware types, social engineering, attack frameworks, vulnerability categories | 12 |
+| [**Cryptography & PKI**](https://anelhenning2-collab.github.io/logical-learning/crypto.html) | Domain 2 (~15%) | Symmetric/asymmetric, hashing, PKI, TLS, digital signatures, certificate management | 12 |
+| [**Network Security**](https://anelhenning2-collab.github.io/logical-learning/network.html) | Domain 3 (~24%) | Firewalls, IDS/IPS, VPNs, DMZ, segmentation, wireless security, protocols | 12 |
+| [**Identity & Access**](https://anelhenning2-collab.github.io/logical-learning/identity.html) | Domain 4 (~16%) | Auth factors, MFA, SSO/federation, Zero Trust, PAM, access control models, directory services | 12 |
+
+**[Open Logical Learning →](https://anelhenning2-collab.github.io/logical-learning/)**
+
+---
 ## 🔐 Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
