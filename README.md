@@ -177,6 +177,31 @@ The proposal was shaped by studying published research from quantum computing fa
 > I worked as a **Deli Clerk at Publix Supermarkets** in Tampa, FL from **2015–2025** — 10 years observing how grocery logistics, peak-hour congestion, and inefficient routing created real bottlenecks that technology hadn't solved. That lived experience is the foundation of GlideCart. I enrolled in CS at Rasmussen, then MS Cybersecurity at Purdue Global, and channeled everything I was learning — autonomous systems, post-quantum encryption, secure architecture — into a research proposal for the problem I watched every day.
 
 ---
+## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Lab_Report_Site-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Labs"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnelHenning2-collab/glidecart-labs" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-0d1b3e?style=for-the-badge&logo=github&logoColor=c8a44a" alt="Lab Source Code"/>
+  </a>
+</p>
+
+Four labs, each tied directly to one research question in my PhD thesis statement. They run on classical hardware today and produce honest baselines. The quantum extensions are the PhD research targets — fully specified, not yet implemented.
+
+| Lab | Research Question (Thesis) | Key Result |
+|-----|---------------------------|------------|
+| **[Lab 1 — Routing](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab1-routing)** | Can hybrid quantum-classical optimization improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
+| **[Lab 2 — Encryption](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab2-encryption)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — same latency as RSA, fully quantum-safe |
+| **[Lab 3 — Error Correction](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab3-error-correction)** | How can QEC principles enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
+| **[Lab 4 — Hardware Spec](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab4-hardware-spec)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
+
+> **Honest framing:** These labs establish the classical baseline a PhD program would extend. Quantum hardware experiments (QAOA circuits, Qiskit simulation, Steane code on trapped-ion) require PhD lab access at UMD QuICS, Harvard HQI, or U. Chicago CQE — my PhD targets for 2027.
+
+
+---
 ## 🔐 Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
