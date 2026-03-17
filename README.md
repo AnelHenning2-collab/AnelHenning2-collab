@@ -88,6 +88,128 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ---
 
+## 🛒 GlideCart — Autonomous Quantum Retail Vehicle
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/glidecart-research/" target="_blank">
+    <img src="https://img.shields.io/badge/GlideCart_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Live"/>
+  </a>
+  &nbsp;
+  <a href="https://anelhenning2-collab.github.io/quantum-vip-professors/" target="_blank">
+    <img src="https://img.shields.io/badge/Quantum_Professor_Outreach-Live%20Site-6929C4?style=for-the-badge&logo=atom&logoColor=white" alt="Professor VIP"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnelHenning2-collab/glidecart-research" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-glidecart--research-30363d?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Repo"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="58%">
+
+### [GlideCart — Qiskit-Compatible Quantum Optimization Platform](https://anelhenning2-collab.github.io/glidecart-research/)
+
+GlideCart is an autonomous shopping and delivery vehicle designed for grocery logistics — powered by quantum algorithms, quantum-safe encryption, and AI-driven navigation. Conceived during graduate research at Purdue Global (MS Cybersecurity Management, 2026) and developed as a formal PhD research proposal sent to 13 leading quantum computing professors across Harvard, MIT, Yale, Stanford, University of Chicago, IonQ, PsiQuantum, and Quantinuum.
+
+**Core research contributions:**
+- **Qiskit-based QAOA + QSVM** algorithms achieving **20% faster delivery scheduling** vs. classical methods
+- **Quantum-safe encryption** via Quantum Origin — lattice-based cryptography + AES hybrid engine, stress-tested against Grover & Shor
+- **5-phase development roadmap** from Q1 2026 ($2M) through 2030+ ($4M/yr)
+- **$14.5M total research budget** across 5 risk pillars with 65–75% risk reduction targets
+- **ROS navigation + TensorFlow item recognition** — full autonomous software stack
+
+**[View Full Portfolio →](https://anelhenning2-collab.github.io/glidecart-research/)** &nbsp;|&nbsp; **[Professor Outreach →](https://anelhenning2-collab.github.io/quantum-vip-professors/)**
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-grok3-scene1.jpg" width="100%" alt="GlideCart in grocery store" style="border-radius:8px;"/><br/>
+<sub>GlideCart navigating grocery store aisles — item recognition active</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/Qiskit-QAOA_%7C_QSVM-6929C4?style=flat-square&logo=ibm&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Quantum--Safe-Encryption-00D4FF?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/20%25_Faster-vs._Classical-22C55E?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/13_Professors-Harvard_%7C_MIT_%7C_Yale-c8a44a?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Python skills demonstrated — Qiskit, TensorFlow, ROS — click to expand</b></summary>
+<br/>
+
+| Python Skill | Applied In GlideCart | Library / Framework |
+|---|---|---|
+| **Quantum circuit design** | QAOA for delivery route optimization | `Qiskit`, `qiskit-terra` |
+| **NISQ algorithm implementation** | QSVM for threat detection + item classification | `Qiskit Machine Learning` |
+| **Noise simulation** | Encryption latency under quantum noise | `Qiskit Aer` |
+| **Deep learning — item recognition** | Real-time object detection in grocery aisles | `TensorFlow`, `Keras` |
+| **Robot navigation control** | Autonomous pathfinding + obstacle avoidance | `ROS` (Python bindings) |
+| **Quantum-safe encryption** | Hybrid lattice + AES encryption engine | `PyCryptodome`, `liboqs` |
+| **Performance visualization** | Latency, throughput, and error rate charts | `Matplotlib`, `NumPy` |
+| **Federated learning** | Personalized user adaptation, no central storage | `TensorFlow Federated` |
+| **Risk modeling** | 5-pillar financial risk matrix, $6–12M → $1–2M | `Pandas`, `NumPy` |
+| **NIST post-quantum compliance** | Alignment with NIST PQC standards | `cryptography`, `NIST PQC` |
+
+</details>
+
+<details>
+<summary><b>Research documents produced — 13 professors contacted — click to expand</b></summary>
+<br/>
+
+| Professor | Institution | GlideCart Research Alignment | Key Deliverable |
+|---|---|---|---|
+| **Mikhail Lukin** | Harvard / QuEra | Optical qubits, atom arrays, fault-tolerant photonic architectures | Cover letter + Executive Summary |
+| **Boaz Barak** | Harvard HQI | Computational complexity, verifiable AI, post-quantum crypto | Cover letter + 5-Phase Roadmap |
+| **Anurag Anshu** | Harvard HQI | Quantum complexity, NISQ error resilience | Cover letter + Research Statement |
+| **William Oliver** | MIT EECS | Quantum engineering, scalable superconducting qubits | Cover letter + Roadmap |
+| **Patrick Hayden** | Quantinuum / Stanford | Quantum-safe cryptography, Quantum Origin integration | Cover letter + Architecture Proposal |
+| **Rob Schoelkopf** | Yale / YQI | Circuit QED, superconducting qubits, modular quantum systems | Cover letter |
+| **David Awschalom** | U. Chicago / CQE | Quantum spintronics, molecular qubits, quantum sensing | Cover letter + Roadmap (4 phases) |
+| **Matt Johnson** | Stanford Q-FARM | Quantum algorithms, photonic sensing | Cover letter |
+| **Chris Monroe** | IonQ / UMD | Trapped-ion qubits, QAOA, QSVM at scale | Cover letter |
+| **Andrews Childs** | UMD UMIACS | Quantum algorithm design, complexity theory | Cover letter |
+| **Jack Hidary** | MIT / SandboxAQ | Hybrid quantum-classical workflows, applied quantum AI | Cover letter |
+| **Pete Shadbolt** | PsiQuantum | Photonic quantum computing, semiconductor scale-up | Cover letter |
+| **Chris Savoie** | PsiQuantum | Large-scale photonic quantum architectures | Cover letter |
+
+**Total deliverables:** 16 personalized cover letters · 1 executive summary · 5-phase roadmaps per professor · 64-page research statement · financial risk plan · quantum security architecture diagram
+
+</details>
+
+<details>
+<summary><b>Research papers — PDF documents — click to view</b></summary>
+<br/>
+
+| Document | Description | Download |
+|---|---|---|
+| **Executive Summary** | 1-page GlideCart overview — quantum AI grocery navigation, Jan 2026 | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ExecutiveSummary.pdf) |
+| **Professor Cover Letters** | 16 personalized letters to quantum professors at Harvard, MIT, Yale, Stanford, IonQ, PsiQuantum, Quantinuum, UMD | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ProfessorCoverLetters.pdf) |
+| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, $6–12M → $1–2M reduction targets | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_FinancialRiskPlan.pdf) |
+| **Development Roadmap** | 17-page 5-phase roadmap with per-professor research alignment and budget breakdowns | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_Roadmap.pdf) |
+
+</details>
+
+### Origin Story — From Deli Clerk to Quantum Researcher
+
+> I worked as a **Deli Clerk at Publix Supermarkets** in Tampa, FL from **2015–2025** — 10 years observing how grocery logistics, congestion at peak hours, and inefficient routing created real bottlenecks that technology hadn't solved. That lived experience is the foundation of GlideCart. I enrolled in the CS program at Rasmussen, then MS Cybersecurity at Purdue Global, and applied everything I learned — Qiskit, quantum-safe encryption, autonomous navigation — to build a research proposal for the problem I watched every day.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-pilot-grocery.jpg" width="48%" alt="GlideCart pilot deployment"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-quantum-algorithms.jpg" width="48%" alt="Quantum algorithms"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-qaoa-qsvm.jpg" width="48%" alt="QAOA QSVM performance"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-business-impact.jpg" width="48%" alt="18% CAGR market impact"/>
+</p>
+
+
+---
+
 ## 🔐 Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
