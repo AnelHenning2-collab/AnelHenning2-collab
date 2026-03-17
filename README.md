@@ -5,7 +5,7 @@
 
 <!-- Animated greeting -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anel+Henning+%F0%9F%91%8B;Cybersecurity+%2B+ML+Engineer;CompTIA+Security%2B+Candidate;Building+at+the+intersection+of+AI+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anel+Henning+%F0%9F%91%8B;Cybersecurity+%2B+ML+Engineer;Blockchain+%26+Token+Infrastructure;Building+at+the+intersection+of+AI+%26+Security" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,19 +23,81 @@
 
 ## About Me
 
-I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI and security. I build systems that detect, classify, and respond to threats using machine learning, and I document everything obsessively so others can learn from the process.
+I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI, security, and blockchain infrastructure. I build systems that detect, classify, and respond to threats using machine learning, and I design decentralized token infrastructure aligned with the latest advances in AI inference computing.
 
 - 🎯 Currently preparing for the **CompTIA Security+** exam (target: June 2026)
 - 🧠 Self-teaching **Deep Learning** through structured Cornell note-taking + spaced repetition
-- 🔬 Building a portfolio around **Quantum ML**, **threat detection**, and **neural network security**
+- 🔬 Building a portfolio around **Quantum ML**, **threat detection**, and **blockchain token infrastructure**
+- ⚡ Aligned with **NVIDIA GTC 2026** themes: token factory efficiency, inference scaling, and deep learning augmentation
 - 📚 Studying from: *Hands-On ML with Scikit-Learn, Keras & TensorFlow* · Andrew Ng's Deep Learning Specialization
 - 🎓 Enrolled at **Purdue Global** — Cybersecurity focus
 
-> *"The best way to learn is to teach."* — I record daily video walkthroughs of every concept I study.
+> *"The token is the basic unit of modern AI."* — Jensen Huang, NVIDIA GTC 2026
+
+---
+
+## ⭐ Flagship Project — LogikaQBits Token Factory
+
+<table>
+<tr>
+<td width="60%">
+
+### [LogikaQBits – Solana Token-2022 dApp](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)
+
+A production-grade **token factory** built on Solana using the Token-2022 program — a full-stack dApp that mints, augments, and deploys on-chain tokens through a guided multi-step interface.
+
+**Directly aligned with NVIDIA GTC 2026:**
+- Token factory architecture mirrors NVIDIA's Nebius Token Factory (session S82234)
+- Scale up / scale out patterns applied to blockchain token deployment
+- Deep learning token augmentation — inference throughput mapped to on-chain mint pipeline
+- Authority revocation = frozen model weights — immutable, trustless supply
+
+**[View Repo →](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)** &nbsp;|&nbsp; **[Live Demo →](https://anelhenning2-collab.github.io/LogikaQBits-dApp/)**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://img.shields.io/badge/Solana-Token--2022-9945FF?style=for-the-badge&logo=solana&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Ethereum-Solidity-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/NVIDIA-GTC%202026%20Aligned-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>What makes this a strong portfolio piece — click to expand</b></summary>
+<br/>
+
+| Skill | Demonstrated By |
+|---|---|
+| **Token factory design** | Minting pipeline with throughput and cost optimization |
+| **Scale up** | On-chain metadata, Token-2022 extensions, IPFS URI |
+| **Scale out** | Multi-wallet ATA deployment, parallel token distribution |
+| **Deep learning analogy** | Inference tokens mapped to blockchain tokens (NVIDIA GTC 2026) |
+| **Smart contract security** | Ethereum escrow with Checks-Effects-Interactions pattern |
+| **Authority revocation** | Immutable supply — analogous to frozen neural network weights |
+| **Web3 UX/UI** | Responsive multi-step wizard with wallet integration |
+| **Unit testing** | 3 Jest test cases covering mint, metadata, and revocation |
+| **Cross-chain** | Both Solana (Token-2022) and Ethereum (Solidity/ERC-20) |
+
+**Why it matters now:** At NVIDIA GTC 2026, Jensen Huang projected $1 trillion in revenue through 2027, driven by the shift from training to large-scale inference. Token throughput is now directly linked to revenue — and understanding token infrastructure at this level is the skill set companies are hiring for.
+
+</details>
 
 ---
 
 ## Tech Stack
+
+### Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/Solana-Token--2022-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Ethereum-Solidity-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+</p>
 
 ### Security & Networking
 <p>
@@ -54,7 +116,6 @@ I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — wo
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
@@ -72,18 +133,17 @@ I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — wo
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoft-onenote&logoColor=white" alt="OneNote"/>
-  <img src="https://img.shields.io/badge/Wacom-000000?style=for-the-badge&logo=wacom&logoColor=white" alt="Wacom"/>
 </p>
 
 ---
 
-## Featured Projects
-
-> ⚠️ **Portfolio in active development** — repos are being structured and documented. Check back often.
+## All Projects
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [**⭐ LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
 | [**purdue-grad-samples-2026**](https://github.com/AnelHenning2-collab/purdue-grad-samples-2026) | Graduate-level work samples covering cybersecurity and ML fundamentals | Python, Security | 🟢 Public |
+| [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
 | **quantumchoice-qdof** | Quantum-assisted retail decision optimization using QAOA (6-qubit, ~20% runtime reduction) | Qiskit, Python | 🔧 Building |
 | **ml-phishing-url-detector** | ML classifier that detects phishing URLs — bridging security and AI | Python, Scikit-Learn | 🔧 Building |
 | **cyber-soc-detection-lab** | SOC detection lab with log analysis, MITRE ATT&CK mapping | Python, Linux | 🔧 Building |
@@ -94,7 +154,8 @@ I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — wo
 ## Certifications & Learning Path
 
 ```
-✅ Purdue Global — Cybersecurity coursework (2026)
+✅ Purdue Global — Cybersecurity + Blockchain coursework (2026)
+✅ LogikaQBits dApp — Solana Token-2022 production deployment
 🎯 CompTIA Security+ — Exam target: June 2026
 📖 Andrew Ng Deep Learning Specialization — In progress
 📖 Hands-On ML (Scikit-Learn, Keras, TensorFlow) — In progress
