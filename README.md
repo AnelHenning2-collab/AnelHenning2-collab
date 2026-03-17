@@ -88,6 +88,69 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ---
 
+## 🔐 Cybersecurity Portfolio — Purdue Global
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/purdue-grad-samples-2026/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Cybersecurity_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnelHenning2-collab/purdue-grad-samples-2026" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-purdue--grad--samples--2026-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Purdue Repo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnelHenning2-collab/PurdueGlobal" target="_blank">
+    <img src="https://img.shields.io/badge/Assignment_Folders-PurdueGlobal-8b6914?style=for-the-badge&logo=github&logoColor=white" alt="PurdueGlobal Repo"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+### [MS Cybersecurity Gallery →](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/)
+
+A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. Browsable by course with lightbox preview.
+
+**Courses covered:**
+- **IN555** Statistics for IT — Red Diamond airline identity, R/Python statistical analysis
+- **IT527** Foundation Data Analysis — Power testing, regression, Kaggle datasets
+- **IT628** Quantitative Risk Assessment — Threat modeling, risk matrices, MITRE ATT&CK
+- **IN532** Blockchain Development — Solana Token-2022, Ethereum escrow, LogikaQBits dApp
+- **IT544** Platform Security — Cloud IAM, zero-trust, container hardening, incident response
+- **Research Writing in IT** — Graduate-level technical writing and literature review
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://img.shields.io/badge/29_Portfolio_Pages-Purdue_Global_MS-c8a44a?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/6%2B_Graduate_Courses-MS_Cybersecurity-8b6914?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Python_%7C_R_%7C_Blockchain-Tech_Stack-30363d?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/GitHub_Pages-Live-22C55E?style=flat-square&logo=github" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Graduate coursework highlights — click to expand</b></summary>
+<br/>
+
+| Course | Key Work | Tools |
+|---|---|---|
+| **IN532 Blockchain Dev** | LogikaQBits Token-2022 dApp, Ethereum escrow, smart contract security | Solana, Solidity, JS |
+| **IT544 Platform Security** | Zero-trust architecture, cloud IAM hardening, container security, incident response | Linux, Docker, IAM |
+| **IT628 Quantitative Risk** | Threat probability matrices, MITRE ATT&CK mapping, quantitative risk scoring | Python, Excel |
+| **IN555 Statistics for IT** | Inferential statistics for cybersecurity data, regression on threat datasets | R, Python, SPSS |
+| **IT527 Data Analysis** | Power testing, multivariate analysis, Kaggle security datasets | Python, Pandas |
+| **Research Writing in IT** | Graduate technical literature review and applied research methodology | APA 7th Ed. |
+
+**Why it matters:** Purdue Global's MS Cybersecurity curriculum bridges quantitative analysis with hands-on security engineering — the same skill set powering AI-driven SOC automation and threat inference pipelines aligned with NVIDIA GTC 2026 themes.
+
+</details>
+
+---
+
 ## 🖥️ Computer Science Portfolio — Rasmussen University
 
 <p align="center">
@@ -183,7 +246,8 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**⭐ LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
-| [**purdue-grad-samples-2026**](https://github.com/AnelHenning2-collab/purdue-grad-samples-2026) | Graduate-level work samples covering cybersecurity and ML fundamentals | Python, Security | 🟢 Public |
+| [**⭐ purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
+| [**⭐ rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
 | **quantumchoice-qdof** | Quantum-assisted retail decision optimization using QAOA (6-qubit, ~20% runtime reduction) | Qiskit, Python | 🔧 Building |
 | **ml-phishing-url-detector** | ML classifier that detects phishing URLs — bridging security and AI | Python, Scikit-Learn | 🔧 Building |
