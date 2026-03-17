@@ -36,6 +36,33 @@ I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — wo
 
 ---
 
+## 🛠️ Services & Deliverables
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/glidecart-research/services.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Services_Page-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Services Page"/>
+  </a>
+</p>
+
+I produce **CEO-level funding proposals, research packages, and product engineering deliverables** — complete from original research through board-ready pitch. Available for funding partnerships, research collaborations, or team roles.
+
+| Service | Description |
+|---|---|
+| 📋 **CEO Funding Proposals** | Complete seed/Series A packages — executive summary, market analysis, financial projections, narrative pitch |
+| 📊 **Business Plans & Financial Models** | 5-year P&L, RaaS pricing tiers, SWOT, B2B market entry strategy |
+| ⚖️ **Legal Compliance Frameworks** | ISO 10218, GDPR/CCPA, ADA, CPSC, PCI-DSS documentation for enterprise deployment |
+| 🔬 **Quantum Research White Papers** | QAOA/QKD/QSVM architecture specs, Qiskit simulations, APA-cited literature review |
+| 🎯 **Executive Summaries** | Board-ready 1–2 page distillations for VC, PhD committee, and enterprise audiences |
+| 🎬 **Pitch Decks & Video Scripts** | Investor decks in PowerPoint + video scripts for product demos |
+| 📅 **PhD Research Roadmaps** | Committee proposals, capstone abstracts, institution-specific research statements |
+| 🛡️ **Quantum Product Portfolios** | Full documentation for GlideCart™, ImpulseGuard™, QuantumChoice™, QPRA-AAI |
+
+> 13 deliverables produced · 50+ CEOs contacted · $5M funding target · PhD target UMD QuICS 2027
+>
+> **[View full services, product designs, research articles & deliverable showcase →](https://anelhenning2-collab.github.io/glidecart-research/services.html)**
+
+---
+
 ## ⭐ Flagship Project — LogikaQBits Token Factory
 
 <table>
