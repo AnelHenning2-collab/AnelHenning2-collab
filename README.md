@@ -95,10 +95,6 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
     <img src="https://img.shields.io/badge/GlideCart_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Live"/>
   </a>
   &nbsp;
-  <a href="https://anelhenning2-collab.github.io/quantum-vip-professors/" target="_blank">
-    <img src="https://img.shields.io/badge/Professor_Outreach_Docs-Live%20Site-6929C4?style=for-the-badge&logo=atom&logoColor=white" alt="Professor VIP"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/AnelHenning2-collab/glidecart-research" target="_blank">
     <img src="https://img.shields.io/badge/View_Repo-glidecart--research-30363d?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Repo"/>
   </a>
@@ -110,16 +106,18 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ### [GlideCart — Autonomous Grocery Delivery Vehicle](https://anelhenning2-collab.github.io/glidecart-research/)
 
-GlideCart is an autonomous shopping and delivery vehicle concept for grocery logistics — designed during graduate research at Purdue Global (MS Cybersecurity Management, 2026). The project developed into a formal research proposal submitted to 13 quantum computing professors across Harvard, MIT, Yale, Stanford, University of Chicago, IonQ, PsiQuantum, and Quantinuum, exploring whether emerging quantum tools could accelerate grocery routing and navigation problems.
+GlideCart is an autonomous shopping and delivery vehicle concept for grocery logistics — conceived during graduate research at Purdue Global (MS Cybersecurity Management, 2026). The project grew into a formal PhD research proposal exploring whether emerging quantum computing tools could solve real routing, security, and navigation challenges in retail environments.
+
+The proposal was shaped by studying published research from quantum computing faculty at **Harvard**, **MIT**, **Yale**, **Stanford**, **University of Chicago**, **University of Maryland**, **IonQ**, **PsiQuantum**, and **Quantinuum** — each institution's focus areas directly informing a different pillar of the GlideCart architecture.
 
 **Research proposal highlights:**
-- **Autonomous navigation concept** — ROS-based pathfinding + AI item recognition software stack
-- **Quantum-safe encryption** — exploring post-quantum cryptography (lattice-based, AES hybrid) for retail security
-- **Delivery scheduling research** — investigating QAOA as a potential optimization approach vs. classical routing
-- **5-phase development roadmap** — Q1 2026 through 2030+, with budgets and risk mitigation plan
-- **13 personalized outreach packages** — cover letters, executive summary, roadmap, and research statement per professor
+- **Autonomous navigation concept** — ROS-based pathfinding + AI-driven item recognition software stack
+- **Post-quantum security research** — exploring lattice-based cryptography and AES hybrid models for retail data protection
+- **Delivery scheduling investigation** — researching optimization approaches for grocery routing problems
+- **5-phase development roadmap** — Q1 2026 through 2030+, with budget and risk mitigation framework
+- **$14.5M research budget model** across 5 risk pillars with reduction targets documented in financial plan
 
-**[View Portfolio →](https://anelhenning2-collab.github.io/glidecart-research/)** &nbsp;|&nbsp; **[Professor Outreach Docs →](https://anelhenning2-collab.github.io/quantum-vip-professors/)**
+**[View Full Portfolio →](https://anelhenning2-collab.github.io/glidecart-research/)**
 
 </td>
 <td width="45%" align="center">
@@ -129,7 +127,7 @@ GlideCart is an autonomous shopping and delivery vehicle concept for grocery log
 
 <img src="https://img.shields.io/badge/Autonomous-Navigation_(ROS)-00b4d8?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Post--Quantum-Encryption_Research-6929C4?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/13_Professors-Harvard_%7C_MIT_%7C_Yale-c8a44a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/9_Institutions-Harvard_%7C_MIT_%7C_Yale_%7C_more-c8a44a?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/5--Phase-Roadmap_2026--2030-22C55E?style=flat-square" />
 
 </td>
@@ -139,43 +137,38 @@ GlideCart is an autonomous shopping and delivery vehicle concept for grocery log
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-pilot-grocery.jpg" width="31%" alt="GlideCart pilot grocery deployment"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-lookbook.jpg" width="31%" alt="GlideCart lookbook"/>
+  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-lookbook.jpg" width="31%" alt="GlideCart lookbook design"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-business-impact.jpg" width="31%" alt="Business impact research"/>
 </p>
 
 <details>
-<summary><b>Research documents — 4 PDFs produced — click to view</b></summary>
+<summary><b>Research documents produced — click to view</b></summary>
 <br/>
 
 | Document | What it covers | Download |
 |---|---|---|
 | **Executive Summary** | 1-page overview of the GlideCart concept — autonomous grocery navigation, Jan 2026 | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ExecutiveSummary.pdf) |
-| **Professor Cover Letters** | 16 personalized outreach letters to quantum research faculty at Harvard, MIT, Yale, Stanford, IonQ, PsiQuantum, Quantinuum, UMD | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ProfessorCoverLetters.pdf) |
-| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, budget breakdowns, and risk reduction targets | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_FinancialRiskPlan.pdf) |
-| **Development Roadmap** | 17-page 5-phase roadmap with professor research alignment and budget per phase | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_Roadmap.pdf) |
+| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, budget breakdowns, and reduction targets | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_FinancialRiskPlan.pdf) |
+| **Development Roadmap** | 17-page 5-phase roadmap with institution research alignment and budget per phase | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_Roadmap.pdf) |
 
 </details>
 
 <details>
-<summary><b>13 professors contacted — institutions + research alignment — click to expand</b></summary>
+<summary><b>Institutions whose published research inspired this proposal — click to expand</b></summary>
 <br/>
 
-| Professor | Institution | Research Area Explored |
-|---|---|---|
-| **Mikhail Lukin** | Harvard / QuEra | Optical qubits, atom arrays, fault-tolerant photonic architectures |
-| **Boaz Barak** | Harvard HQI | Computational complexity, post-quantum cryptography |
-| **Anurag Anshu** | Harvard HQI | Quantum complexity, NISQ error resilience |
-| **William Oliver** | MIT EECS | Quantum engineering, scalable superconducting qubits |
-| **Patrick Hayden** | Quantinuum / Stanford | Quantum-safe cryptography, Quantum Origin |
-| **Rob Schoelkopf** | Yale / YQI | Circuit QED, modular quantum systems |
-| **David Awschalom** | U. Chicago / CQE | Quantum spintronics, quantum sensing |
-| **Matt Johnson** | Stanford Q-FARM | Quantum algorithms, photonic sensing |
-| **Chris Monroe** | IonQ / UMD | Trapped-ion qubits, algorithmic approaches |
-| **Andrews Childs** | UMD UMIACS | Quantum algorithm design, complexity theory |
-| **Jack Hidary** | MIT / SandboxAQ | Hybrid quantum-classical applied research |
-| **Pete Shadbolt** | PsiQuantum | Photonic quantum computing, semiconductor scale-up |
-| **Chris Savoie** | PsiQuantum | Large-scale photonic quantum architectures |
+| Institution | Research Focus That Shaped GlideCart |
+|---|---|
+| **Harvard University** | Quantum complexity theory, optical qubit architectures, post-quantum cryptography |
+| **MIT** | Quantum engineering, scalable superconducting systems, hybrid quantum-classical workflows |
+| **Yale University** | Circuit QED, modular quantum architectures, superconducting qubit design |
+| **Stanford University** | Quantum algorithms, photonic sensing, quantum-safe cryptography applications |
+| **University of Chicago** | Quantum spintronics, molecular qubits, quantum sensing for navigation |
+| **University of Maryland** | Trapped-ion quantum systems, algorithm complexity, NISQ-era applications |
+| **IonQ** | Practical algorithmic performance, NISQ-era deployed quantum computing |
+| **PsiQuantum** | Photonic quantum computing, semiconductor-scale fault-tolerant systems |
+| **Quantinuum** | Quantum-safe encryption, Quantum Origin integration, applied cryptography |
 
 </details>
 
