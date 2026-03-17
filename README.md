@@ -298,6 +298,110 @@ I use a **video-based Cornell note-taking system** — I record myself teaching 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnelHenning2-collab&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
+
+---
+
+## 🎨 UI/UX Design Portfolio — Adobe XD
+
+<p align="center">
+  <a href="https://www.behance.net/anelhenning" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BFA_Graphic_Design-MICA_2003-c8a44a?style=for-the-badge" alt="BFA MICA"/>
+</p>
+
+> **Foundation:** BFA in Graphic Design — Maryland Institute College of Art (MICA), Baltimore, MD · 2003
+>
+> Over 20 years of design thinking underpins every system I build — from threat dashboards to token factory UX to blockchain dApp interfaces. These 2020 Adobe XD projects represent applied UX research, wireframing, prototyping, and visual design across fintech, media, fashion, and brand identity.
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**PRISM — Fashion Editorial UI**
+<br/>
+<img src="assets/ux/ux-01-prism.jpg" width="100%" alt="PRISM Fashion UI"/>
+<br/><sub>E-commerce website · mood board · editorial layout</sub>
+
+</td>
+<td width="50%" align="center">
+
+**Shooting Stars Post — Brand Identity**
+<br/>
+<img src="assets/ux/ux-02-shooting-stars.jpg" width="100%" alt="Shooting Stars Post Branding"/>
+<br/><sub>Logo system · business cards · merchandise mockups</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**Flixbooks — Mobile App UI**
+<br/>
+<img src="assets/ux/ux-03-flixbooks-mobile.jpg" width="100%" alt="Flixbooks Mobile App"/>
+<br/><sub>Movie streaming app · genre picker · detail view</sub>
+
+</td>
+<td width="50%" align="center">
+
+**PayPath — Fintech Banking App**
+<br/>
+<img src="assets/ux/ux-04-paypath.jpg" width="100%" alt="PayPath Fintech App"/>
+<br/><sub>Mobile banking · Apple Watch · transaction history</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**Chicly — Fashion Shopping App**
+<br/>
+<img src="assets/ux/ux-05-chicly.jpg" width="100%" alt="Chicly Shopping App"/>
+<br/><sub>Product listings · cart · checkout flow · iOS</sub>
+
+</td>
+<td width="50%" align="center">
+
+**Temperatur — Weather App**
+<br/>
+<img src="assets/ux/ux-06-temperatur.jpg" width="100%" alt="Temperatur Weather App"/>
+<br/><sub>Tampa, FL · hourly + weekly forecast · dark UI</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Flixbooks — Desktop Web + Email Marketing**
+<br/>
+<img src="assets/ux/ux-07-flixbooks-desktop.jpg" width="80%" alt="Flixbooks Desktop"/>
+<br/><sub>Full desktop web UI · Constant Contact email campaign · genre browsing</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Design background & skills — click to expand</b></summary>
+<br/>
+
+| Discipline | Tools & Methods |
+|---|---|
+| **UX Research** | User flows, personas, journey mapping, wireframing |
+| **Visual Design** | Typography, grid systems, color theory, brand systems |
+| **Prototyping** | Adobe XD interactive prototypes, component libraries |
+| **Brand Identity** | Logo design, mockup systems, print + digital |
+| **Fintech UX** | PayPath banking app — directly relevant to LogikaQBits wallet UX |
+| **Motion & Interaction** | Micro-interactions, transition design, responsive layouts |
+| **Foundation** | BFA Graphic Design — MICA Baltimore · 2003 |
+
+**Why this matters for cybersecurity + AI work:** SOC dashboards, threat visualization interfaces, and AI inference monitoring tools all require the same design discipline demonstrated here — information hierarchy, clarity under complexity, and user-centered interaction models.
+
+</details>
+
 ---
 
 <p align="center">
