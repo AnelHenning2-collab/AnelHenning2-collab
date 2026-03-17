@@ -88,6 +88,47 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ---
 
+## 🖥️ Computer Science Portfolio — Rasmussen University
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_CS_Portfolio-Live%20Site-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="CS Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnelHenning2-collab/rasmussen-cs-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-rasmussen--cs--portfolio-30363d?style=for-the-badge&logo=github&logoColor=white" alt="CS Repo"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+### [Computer Science BS Gallery →](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/)
+
+A visual gallery of **58 portfolio pages** from Rasmussen University's Computer Science BS program — browsable by course with lightbox preview.
+
+**Courses covered:**
+- Inferential Statistics — USGS, NCLEX hospital analysis
+- Software Engineering — UML, Gantt, ACME systems
+- Advanced Java — Logika Labs, Track.ly, Eclipse apps
+- Database — MySQL, CRUD, ER diagrams, Kaggle
+- Discrete Mathematics — Truth tables, Active Attack©
+- Web Analytics — Google Analytics, Web 2.0 Conference
+- QA, Networks, OS Architecture, Emerging Technology
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://img.shields.io/badge/58_Portfolio_Pages-Rasmussen_CS-00b4d8?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/15%2B_Courses-Computer_Science_BS-0077b6?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Java_%7C_MySQL_%7C_Python-Tech_Stack-30363d?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/GitHub_Pages-Live-22C55E?style=flat-square&logo=github" />
+
+</td>
+</tr>
+</table>
+
 ## Tech Stack
 
 ### Blockchain & Web3
