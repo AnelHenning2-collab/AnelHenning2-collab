@@ -301,84 +301,133 @@ I use a **video-based Cornell note-taking system** — I record myself teaching 
 
 ---
 
-## 🎨 UI/UX Design Portfolio — Adobe XD
+
+---
+
+## 🎨 UI/UX Design Portfolio — Adobe XD · Behance
 
 <p align="center">
-  <a href="https://www.behance.net/anelhenning" target="_blank">
-    <img src="https://img.shields.io/badge/View_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/>
+  <a href="https://www.behance.net/anellehenning" target="_blank">
+    <img src="https://img.shields.io/badge/Full_Portfolio_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   &nbsp;
   <img src="https://img.shields.io/badge/BFA_Graphic_Design-MICA_2003-c8a44a?style=for-the-badge" alt="BFA MICA"/>
 </p>
 
 > **Foundation:** BFA in Graphic Design — Maryland Institute College of Art (MICA), Baltimore, MD · 2003
 >
-> Over 20 years of design thinking underpins every system I build — from threat dashboards to token factory UX to blockchain dApp interfaces. These 2020 Adobe XD projects represent applied UX research, wireframing, prototyping, and visual design across fintech, media, fashion, and brand identity.
+> 20+ years of design thinking underpins every system I build — from cybersecurity dashboards to token factory UX to blockchain dApp interfaces. The projects below are Adobe XD daily challenges and personal UX projects from 2018–2019, demonstrating interaction design, prototyping, brand identity, and product thinking across fintech, media, fashion, and lifestyle verticals.
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-**PRISM — Fashion Editorial UI**
+**[Adobe XD Daily Challenges: August 2018 ↗](https://www.behance.net/gallery/69340895/Adobe-XD-Daily-Challenges-August-2018)**
 <br/>
-<img src="assets/ux/ux-01-prism.jpg" width="100%" alt="PRISM Fashion UI"/>
-<br/><sub>E-commerce website · mood board · editorial layout</sub>
+<img src="assets/ux/bh-01-xd-daily-aug.jpg" width="100%" alt="XD Daily August 2018"/>
+<br/><sub>Social networking Stories prototype · mobile UX · interactive flows</sub>
 
 </td>
 <td width="50%" align="center">
 
-**Shooting Stars Post — Brand Identity**
+**[Chicly — Fashion Shopping App ↗](https://www.behance.net/gallery/69878835/XD-Daily-Challenge-Fashion-blog-and-app)**
 <br/>
-<img src="assets/ux/ux-02-shooting-stars.jpg" width="100%" alt="Shooting Stars Post Branding"/>
-<br/><sub>Logo system · business cards · merchandise mockups</sub>
+<img src="assets/ux/bh-02-chicly.jpg" width="100%" alt="Chicly Fashion App"/>
+<br/><sub>Login · featured collection · cart · checkout · iOS/Android CTAs</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**Flixbooks — Mobile App UI**
+**[UX Daily Challenge: July 2018 ↗](https://www.behance.net/gallery/68541953/UX-Daily-Challenge-July-2018)**
 <br/>
-<img src="assets/ux/ux-03-flixbooks-mobile.jpg" width="100%" alt="Flixbooks Mobile App"/>
-<br/><sub>Movie streaming app · genre picker · detail view</sub>
+<img src="assets/ux/bh-03-ux-july.jpg" width="100%" alt="UX Daily July 2018"/>
+<br/><sub>Airline boarding pass · Apple Watch · Lyft integration · SFO→LAX</sub>
 
 </td>
 <td width="50%" align="center">
 
-**PayPath — Fintech Banking App**
+**[Adobe XD Daily Challenge: May 2018 ↗](https://www.behance.net/gallery/65921457/Adobe-XD-Daily-Challenge-May-2018)**
 <br/>
-<img src="assets/ux/ux-04-paypath.jpg" width="100%" alt="PayPath Fintech App"/>
-<br/><sub>Mobile banking · Apple Watch · transaction history</sub>
+<img src="assets/ux/bh-04-xd-may.jpg" width="100%" alt="XD Daily May 2018"/>
+<br/><sub>Mobile + wearable UI · Apple Watch prototypes · interactive flows</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**Chicly — Fashion Shopping App**
+**[XD Daily Challenge: June 2018 — Gasparilla ↗](https://www.behance.net/gallery/67026831/Adobe-XD-Daily-Challenge-June-2018)**
 <br/>
-<img src="assets/ux/ux-05-chicly.jpg" width="100%" alt="Chicly Shopping App"/>
-<br/><sub>Product listings · cart · checkout flow · iOS</sub>
+<img src="assets/ux/bh-05-xd-june-gasparilla.jpg" width="100%" alt="Gasparilla Festival App"/>
+<br/><sub>Tampa festival app · logo design · mood board · iPhone + Apple Watch</sub>
 
 </td>
 <td width="50%" align="center">
 
-**Temperatur — Weather App**
+**[Spiaggia Hotel — Luxury Brandscape ↗](https://www.behance.net/gallery/68642179/Adobe-Daily-Challenge-Design-3-luxury-brandscapes)**
 <br/>
-<img src="assets/ux/ux-06-temperatur.jpg" width="100%" alt="Temperatur Weather App"/>
-<br/><sub>Tampa, FL · hourly + weekly forecast · dark UI</sub>
+<img src="assets/ux/bh-06-spiaggia-hotel.jpg" width="100%" alt="Spiaggia Hotel Brandscape"/>
+<br/><sub>Boutique hotel brand identity · logo · lifestyle branding · Venus Beach FL</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
-**Flixbooks — Desktop Web + Email Marketing**
+**[Personal Projects: PM & Mentor Apps ↗](https://www.behance.net/gallery/69355273/Personal-projects-project-management-and-mentor-apps)**
 <br/>
-<img src="assets/ux/ux-07-flixbooks-desktop.jpg" width="80%" alt="Flixbooks Desktop"/>
-<br/><sub>Full desktop web UI · Constant Contact email campaign · genre browsing</sub>
+<img src="assets/ux/bh-07-personal-apps.jpg" width="100%" alt="Personal Apps"/>
+<br/><sub>Project management app · mentor app · user flow · typography system</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[Adobe XD Daily Challenges: September 2018 ↗](https://www.behance.net/gallery/70382205/Adobe-XD-Daily-Challenges-September)**
+<br/>
+<img src="assets/ux/bh-08-xd-sep.jpg" width="100%" alt="XD Daily September 2018"/>
+<br/><sub>Mobile app UX series · interactive prototypes · video demos</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**[2019 Adobe XD Daily Challenge ↗](https://www.behance.net/gallery/75269197/2019-Adobe-XD-Daily-Challenge)**
+<br/>
+<img src="assets/ux/bh-09-xd-jan2019.jpg" width="100%" alt="XD Daily January 2019"/>
+<br/><sub>Pull to refresh · drag to rearrange · smart home · finance chart · swipe email</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[March 2019: XD Daily Challenge ↗](https://www.behance.net/gallery/76538083/March-2019-XD-Daily-Challenge)**
+<br/>
+<img src="assets/ux/bh-10-xd-mar2019.jpg" width="100%" alt="XD Daily March 2019"/>
+<br/><sub>Music player app · design system · user flow · hi-fi prototype · client presentation</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**[PSD Daily Creative Challenge ↗](https://www.behance.net/gallery/75910431/PSD-Daily-Creative-Challenge)**
+<br/>
+<img src="assets/ux/bh-11-psd-daily.jpg" width="100%" alt="PSD Daily Challenge"/>
+<br/><sub>Photoshop compositing · blending modes · double exposure · AdobeCapture</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[PSDaily Challenge: March 2019 ↗](https://www.behance.net/gallery/77172267/PSDaily-Challenge-March)**
+<br/>
+<img src="assets/ux/bh-12-psdaily-march.jpg" width="100%" alt="PSDaily March 2019"/>
+<br/><sub>VR game invite · neon glitch logo · space dreamscape · puppet warp · GIF animation</sub>
 
 </td>
 </tr>
@@ -392,11 +441,11 @@ I use a **video-based Cornell note-taking system** — I record myself teaching 
 |---|---|
 | **UX Research** | User flows, personas, journey mapping, wireframing |
 | **Visual Design** | Typography, grid systems, color theory, brand systems |
-| **Prototyping** | Adobe XD interactive prototypes, component libraries |
-| **Brand Identity** | Logo design, mockup systems, print + digital |
-| **Fintech UX** | PayPath banking app — directly relevant to LogikaQBits wallet UX |
-| **Motion & Interaction** | Micro-interactions, transition design, responsive layouts |
-| **Foundation** | BFA Graphic Design — MICA Baltimore · 2003 |
+| **Prototyping** | Adobe XD interactive prototypes, component libraries, micro-interactions |
+| **Brand Identity** | Logo design, luxury brandscapes, mockup systems, print + digital |
+| **Fintech UX** | PayPath banking app, airline passbook — directly relevant to LogikaQBits wallet UX |
+| **Photoshop** | Compositing, blending modes, double exposure, animation (GIF) |
+| **Foundation** | BFA Graphic Design — Maryland Institute College of Art (MICA), Baltimore, MD · 2003 |
 
 **Why this matters for cybersecurity + AI work:** SOC dashboards, threat visualization interfaces, and AI inference monitoring tools all require the same design discipline demonstrated here — information hierarchy, clarity under complexity, and user-centered interaction models.
 
