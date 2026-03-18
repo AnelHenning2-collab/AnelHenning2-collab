@@ -463,24 +463,5 @@ A collection of **UI/UX prototypes** built in Adobe XD across multiple industrie
   <img src="https://img.shields.io/badge/Where_It_Started-User_Experience_Developer-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 </p>
 
-My journey into cybersecurity, machine learning, and blockchain started from a foundation in **User Experience Development**. Before diving into security protocols and quantum computing, I was designing interfaces, building brand systems, and prototyping mobile applications — work that gave me a deep understanding of how users interact with technology and where those interactions create risk.
-
-This UX foundation shapes everything I build:
-
-- **Security starts at the interface** — understanding user flows helps me identify social engineering attack surfaces and design secure-by-default experiences
-- **Design thinking meets threat modeling** — prototyping taught me to think in scenarios, the same skill used in incident response playbooks and penetration testing briefs
-- **Brand identity → system architecture** — the discipline of building cohesive brand systems (typography, color, hierarchy) translates directly to clean architecture diagrams, documentation, and technical white papers
-- **Adobe Creative Suite → Technical Documentation** — the visual skills from Adobe XD, InDesign, and Photoshop now power every Visio diagram, Gantt chart, and portfolio presentation I create
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prototyping-c8a44a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Brand_Systems-8b6914?style=flat-square" />
-</p>
-
-> *My career started as a User Experience Developer — and that perspective is embedded in every cybersecurity deliverable, every lab report, and every line of code I write today.*
+I hold a **BFA in Graphic Design** with a concentration in User Experience — the foundation behind every brand project, prototype, and design system in this portfolio.
 
