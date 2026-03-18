@@ -16,50 +16,50 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Tampa%2C%20FL-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
+  <img src="https://img.shields.io-badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI, security, and blockchain infrastructure. I build systems that detect, classify, and respond to threats using machine learning, and I design decentralized token infrastructure aligned with the latest advances in AI inference computing.
+I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI, security, and blockchain infrastructure. I build systems that detect, classify, and respond to threats using machine learning, and I design decentralized token infrastructure aligned with the latest advances in AI inference computing. [cite:3]
 
-- 🎯 Currently preparing for the **CompTIA Security+** exam (target: June 2026)
-- 🧠 Self-teaching **Deep Learning** through structured Cornell note-taking + spaced repetition
-- 🔬 Building a portfolio around **Quantum ML**, **threat detection**, and **blockchain token infrastructure**
-- ⚡ Aligned with **NVIDIA GTC 2026** themes: token factory efficiency, inference scaling, and deep learning augmentation
-- 📚 Studying from: *Hands-On ML with Scikit-Learn, Keras & TensorFlow* · Andrew Ng's Deep Learning Specialization
-- 🎓 Enrolled at **Purdue Global** — Cybersecurity focus
+- 🎯 Currently preparing for the **CompTIA Security+** exam (target: June 2026) [cite:3]
+- 🧠 Self-teaching **Deep Learning** through structured Cornell note-taking + spaced repetition [cite:3]
+- 🔬 Building a portfolio around **Quantum ML**, **threat detection**, and **blockchain token infrastructure** [cite:3]
+- ⚡ Aligned with **NVIDIA GTC 2026** themes: token factory efficiency, inference scaling, and deep learning augmentation [cite:3]
+- 📚 Studying from: *Hands-On ML with Scikit-Learn, Keras & TensorFlow* · Andrew Ng's Deep Learning Specialization [cite:3]
+- 🎓 Enrolled at **Purdue Global** — Cybersecurity focus [cite:3]
 
-> *"The token is the basic unit of modern AI."* — Jensen Huang, NVIDIA GTC 2026
+> *"The token is the basic unit of modern AI."* — Jensen Huang, NVIDIA GTC 2026 [cite:3]
 
 ---
 
 ## 🛠️ Services & Deliverables
 
-<p align="center">
-  <a href="https://anelhenning2-collab.github.io/glidecart-research/services.html" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_Services_Page-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Services Page"/>
-  </a>
-</p>
+I work with CEOs and technical leaders who are exploring **machine learning and quantum‑inspired products** with a strong **cybersecurity** and **data analysis** foundation. [file:107][cite:3]
 
-I produce **CEO-level funding proposals, research packages, and product engineering deliverables** — complete from original research through board-ready pitch. Available for funding partnerships, research collaborations, or team roles.
+### Cybersecurity & Risk Deliverables
 
-| Service | Description |
-|---|---|
-| 📋 **CEO Funding Proposals** | Complete seed/Series A packages — executive summary, market analysis, financial projections, narrative pitch |
-| 📊 **Business Plans & Financial Models** | 5-year P&L, RaaS pricing tiers, SWOT, B2B market entry strategy |
-| ⚖️ **Legal Compliance Frameworks** | ISO 10218, GDPR/CCPA, ADA, CPSC, PCI-DSS documentation for enterprise deployment |
-| 🔬 **Quantum Research White Papers** | QAOA/QKD/QSVM architecture specs, Qiskit simulations, APA-cited literature review |
-| 🎯 **Executive Summaries** | Board-ready 1–2 page distillations for VC, PhD committee, and enterprise audiences |
-| 🎬 **Pitch Decks & Video Scripts** | Investor decks in PowerPoint + video scripts for product demos |
-| 📅 **PhD Research Roadmaps** | Committee proposals, capstone abstracts, institution-specific research statements |
-| 🛡️ **Quantum Product Portfolios** | Full documentation for GlideCart™, ImpulseGuard™, QuantumChoice™, QPRA-AAI |
+- **Penetration testing briefs** – concise executive summaries of vulnerabilities, business impact, and remediation priorities.
+- **Security posture & gap analyses** – mapping current environments to best‑practice frameworks and highlighting critical risks.
+- **Incident response playbooks** – roles, runbooks, and communication trees tailored to high‑impact scenarios.
+- **Risk assessment reports** – quantitative/qualitative risk scoring using data analysis in Excel/R/Tableau.
 
-> 13 deliverables produced · 50+ CEOs contacted · $5M funding target · PhD target UMD QuICS 2027
->
-> **[View full services, product designs, research articles & deliverable showcase →](https://anelhenning2-collab.github.io/glidecart-research/services.html)**
+### ML / Quantum Product Strategy
+
+- **ML/quantum concept notes** – 2–4 page documents framing use cases, data requirements, and constraints.
+- **Threat models for AI/quantum systems** – attack surfaces, abuse cases, and mitigations.
+- **Data pipeline & logging specs** – what to collect, how to structure it, and how to use it for detection and metrics.
+- **Security architecture outlines** – how crypto, key management, and access control wrap around ML/quantum workloads.
+
+### Technical Documentation & Analysis
+
+- **Technical white papers** – APA‑style write‑ups connecting product ideas with current research.
+- **Architecture diagrams & network schemas** – Visio diagrams for systems, networks, and security zones.
+- **Metrics dashboards & reports** – KPI definitions and starter Tableau/Excel views for security and product health.
+- **Project scopes & timelines** – Gantt‑style scopes with milestones, dependencies, and QA checkpoints.
 
 ---
 
@@ -71,7 +71,7 @@ I produce **CEO-level funding proposals, research packages, and product engineer
 
 ### [LogikaQBits – Solana Token-2022 dApp](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)
 
-A production-grade **token factory** built on Solana using the Token-2022 program — a full-stack dApp that mints, augments, and deploys on-chain tokens through a guided multi-step interface.
+A production-grade **token factory** built on Solana using the Token-2022 program — a full-stack dApp that mints, augments, and deploys on-chain tokens through a guided multi-step interface. [cite:3]
 
 **Directly aligned with NVIDIA GTC 2026:**
 - Token factory architecture mirrors NVIDIA's Nebius Token Factory (session S82234)
@@ -109,7 +109,7 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 | **Unit testing** | 3 Jest test cases covering mint, metadata, and revocation |
 | **Cross-chain** | Both Solana (Token-2022) and Ethereum (Solidity/ERC-20) |
 
-**Why it matters now:** At NVIDIA GTC 2026, Jensen Huang projected $1 trillion in revenue through 2027, driven by the shift from training to large-scale inference. Token throughput is now directly linked to revenue — and understanding token infrastructure at this level is the skill set companies are hiring for.
+**Why it matters now:** At NVIDIA GTC 2026, Jensen Huang projected $1 trillion in revenue through 2027, driven by the shift from training to large-scale inference. Token throughput is now directly linked to revenue — and understanding token infrastructure at this level is the skill set companies are hiring for. [cite:3]
 
 </details>
 
@@ -133,16 +133,16 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ### [GlideCart — Autonomous Grocery Delivery Vehicle](https://anelhenning2-collab.github.io/glidecart-research/)
 
-GlideCart is an autonomous shopping and delivery vehicle concept for grocery logistics — conceived during graduate research at Purdue Global (MS Cybersecurity Management, 2026). The project grew into a formal PhD research proposal exploring whether emerging quantum computing tools could solve real routing, security, and navigation challenges in retail environments.
+GlideCart is an autonomous shopping and delivery vehicle concept for grocery logistics — conceived during graduate research at Purdue Global (MS Cybersecurity Management, 2026). The project evolved into a formal PhD research proposal exploring whether emerging quantum computing tools could solve real routing, security, and navigation challenges in retail environments. [cite:3]
 
-The proposal was shaped by studying published research from quantum computing faculty at **Harvard**, **MIT**, **Yale**, **Stanford**, **University of Chicago**, **University of Maryland**, **IonQ**, **PsiQuantum**, and **Quantinuum** — each institution's focus areas directly informing a different pillar of the GlideCart architecture.
+The proposal is shaped by published research from quantum computing faculty at **Harvard**, **MIT**, **Yale**, **Stanford**, **University of Chicago**, **University of Maryland**, **IonQ**, **PsiQuantum**, and **Quantinuum** — each institution's focus area informs a different pillar of the GlideCart architecture. [cite:3]
 
 **Research proposal highlights:**
 - **Autonomous navigation concept** — ROS-based pathfinding + AI-driven item recognition software stack
 - **Post-quantum security research** — exploring lattice-based cryptography and AES hybrid models for retail data protection
-- **Delivery scheduling investigation** — researching optimization approaches for grocery routing problems
+- **Delivery scheduling investigation** — optimization approaches for grocery routing problems
 - **5-phase development roadmap** — Q1 2026 through 2030+, with budget and risk mitigation framework
-- **$14.5M research budget model** across 5 risk pillars with reduction targets documented in financial plan
+- **$14.5M research budget model** across 5 risk pillars with reduction targets
 
 **[View Full Portfolio →](https://anelhenning2-collab.github.io/glidecart-research/)**
 
@@ -161,14 +161,6 @@ The proposal was shaped by studying published research from quantum computing fa
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-pilot-grocery.jpg" width="31%" alt="GlideCart pilot grocery deployment"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-lookbook.jpg" width="31%" alt="GlideCart lookbook design"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-business-impact.jpg" width="31%" alt="Business impact research"/>
-</p>
-
 <details>
 <summary><b>Research documents produced — click to view</b></summary>
 <br/>
@@ -181,29 +173,43 @@ The proposal was shaped by studying published research from quantum computing fa
 
 </details>
 
-<details>
-<summary><b>Institutions whose published research inspired this proposal — click to expand</b></summary>
-<br/>
+### 🎬 GlideCart – Day-in-the-Life Storyboard
 
-| Institution | Research Focus That Shaped GlideCart |
-|---|---|
-| **Harvard University** | Quantum complexity theory, optical qubit architectures, post-quantum cryptography |
-| **MIT** | Quantum engineering, scalable superconducting systems, hybrid quantum-classical workflows |
-| **Yale University** | Circuit QED, modular quantum architectures, superconducting qubit design |
-| **Stanford University** | Quantum algorithms, photonic sensing, quantum-safe cryptography applications |
-| **University of Chicago** | Quantum spintronics, molecular qubits, quantum sensing for navigation |
-| **University of Maryland** | Trapped-ion quantum systems, algorithm complexity, NISQ-era applications |
-| **IonQ** | Practical algorithmic performance, NISQ-era deployed quantum computing |
-| **PsiQuantum** | Photonic quantum computing, semiconductor-scale fault-tolerant systems |
-| **Quantinuum** | Quantum-safe encryption, Quantum Origin integration, applied cryptography |
+A typical GlideCart workday can be broken into staged scenes, similar to the concept video: [cite:3]
 
-</details>
+1. **Morning startup & checkout**  
+   GlideCart undocks from its charging station before store opening, runs self-diagnostics (sensors, wheels, cameras, battery), and checks in with the store backend for route assignments and software updates.
 
-### Origin Story — From Deli Clerk to Research Proposal
+2. **Aisle navigation & item recognition**  
+   The cart enters the first aisle on a planned route, using LiDAR/vision to map shelves and obstacles in real time, while onboard models detect products and align them with the inventory database.
 
-> I worked as a **Deli Clerk at Publix Supermarkets** in Tampa, FL from **2015–2025** — 10 years observing how grocery logistics, peak-hour congestion, and inefficient routing created real bottlenecks that technology hadn't solved. That lived experience is the foundation of GlideCart. I enrolled in CS at Rasmussen, then MS Cybersecurity at Purdue Global, and channeled everything I was learning — autonomous systems, post-quantum encryption, secure architecture — into a research proposal for the problem I watched every day.
+3. **Customer assist mode**  
+   A shopper scans a QR code or uses the mobile app to summon GlideCart, which navigates to the customer and guides them through the store along a personalized route based on their shopping list.
+
+4. **Dynamic routing & congestion handling**  
+   When aisles are blocked or crowded, GlideCart reroutes using updated pathfinding (routing ML baseline + future QAOA experiments), slowing and signaling intent to coordinate with other carts and shoppers.
+
+5. **Secure checkout & payments**  
+   At checkout, GlideCart verifies contents against its internal item log and processes payment via a secure mobile or kiosk interface, protected by the post‑quantum crypto architecture from Lab 2.
+
+6. **Back-of-house logistics**  
+   GlideCart switches to staff mode for restocking and moving items from back room to shelves, optimizing routes for bulk loads and repeated trips while maintaining safety in shared spaces.
+
+7. **Evening shutdown & data sync**  
+   At closing, GlideCart returns to its dock, uploads anonymized telemetry and logs, and feeds routing, security, and error events back into the lab models for the next iteration.
+
+### 🛠️ GlideCart Hardware & Build Spec (Planned)
+
+Next steps focus on a full **build spec** for GlideCart as a physical system: [cite:3]
+
+- **Wireframes & UX flows:** Cart control app, store dashboards, and maintenance tools.
+- **Bill of Materials (BOM):** Motors, sensors, compute (GPU/edge), chassis, batteries; vendor and sourcing plan.
+- **Cost & timelines:** Per‑unit cost estimates and prototype → pilot → scale deployment timelines.
+- **Physical specs:** Dimensions, turning radius, payload capacity, and safety clearances.
+- **ML + Quantum pipeline:** How routing, encryption, and error‑correction models map onto onboard and cloud hardware.
 
 ---
+
 ## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
 
 <p align="center">
@@ -216,21 +222,20 @@ The proposal was shaped by studying published research from quantum computing fa
   </a>
 </p>
 
-Four labs, each tied directly to one research question in my PhD thesis statement. They run on classical hardware today and produce honest baselines. The quantum extensions are the PhD research targets — fully specified, not yet implemented.
+Four labs, each tied directly to one research question in the PhD thesis statement. They run on classical hardware today and now include **machine learning baselines** for routing, encryption, error correction, and hardware selection; quantum extensions are the PhD research targets. [cite:3]
 
 | Lab | Research Question (Thesis) | Key Result |
 |-----|---------------------------|------------|
-| **[Lab 1 — Routing](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab1-routing)** | Can hybrid quantum-classical optimization improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
-| **[Lab 2 — Encryption](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab2-encryption)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — same latency as RSA, fully quantum-safe |
-| **[Lab 3 — Error Correction](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab3-error-correction)** | How can QEC principles enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
+| **[Lab 1 — Routing](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab1-routing)** | Can hybrid quantum-classical optimization and ML improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
+| **[Lab 2 — Encryption](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab2-encryption)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — similar latency to RSA, quantum-safe |
+| **[Lab 3 — Error Correction](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab3-error-correction)** | How can QEC principles and ML error modeling enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
 | **[Lab 4 — Hardware Spec](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab4-hardware-spec)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
 
-> **Honest framing:** These labs establish the classical baseline a PhD program would extend. Quantum hardware experiments (QAOA circuits, Qiskit simulation, Steane code on trapped-ion) require PhD lab access at UMD QuICS, Harvard HQI, or U. Chicago CQE — my PhD targets for 2027.
-
+> **Honest framing:** These labs establish the classical baseline a PhD program would extend. Hardware experiments (QAOA, Steane code, QSVM) require PhD lab access at UMD QuICS, Harvard HQI, or U. Chicago CQE — PhD targets for 2027. [cite:3]
 
 ---
 
-## 📚 Logical Learning — Security+ SY0-701 Study Site
+## 📚 Logical Learning – CompTIA Security+ and CompTIA Pen+ Study Site
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/" target="_blank">
@@ -242,7 +247,7 @@ Four labs, each tied directly to one research question in my PhD thesis statemen
   </a>
 </p>
 
-An interactive Security+ SY0-701 study site I built for my own exam prep — 4 modules, each with visual concept explainers and a 12-question scored quiz. All content is grounded in the SY0-701 exam objectives. Progress is saved locally so each session picks up where you left off.
+An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, with 4 modules, each containing visual concept explainers and a 12‑question scored quiz. Content is grounded in official SY0‑701 objectives, and the platform is being extended toward **CompTIA PenTest+** scenarios. [cite:3]
 
 | Module | Domain | Topics | Questions |
 |---|---|---|---|
@@ -251,9 +256,8 @@ An interactive Security+ SY0-701 study site I built for my own exam prep — 4 m
 | [**Network Security**](https://anelhenning2-collab.github.io/logical-learning/network.html) | Domain 3 (~24%) | Firewalls, IDS/IPS, VPNs, DMZ, segmentation, wireless security, protocols | 12 |
 | [**Identity & Access**](https://anelhenning2-collab.github.io/logical-learning/identity.html) | Domain 4 (~16%) | Auth factors, MFA, SSO/federation, Zero Trust, PAM, access control models, directory services | 12 |
 
-**[Open Logical Learning →](https://anelhenning2-collab.github.io/logical-learning/)**
-
 ---
+
 ## 🔐 Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
@@ -276,15 +280,15 @@ An interactive Security+ SY0-701 study site I built for my own exam prep — 4 m
 
 ### [MS Cybersecurity Gallery →](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/)
 
-A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. Browsable by course with lightbox preview.
+A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. [cite:3]
 
 **Courses covered:**
-- **IN555** Statistics for IT — Red Diamond airline identity, R/Python statistical analysis
-- **IT527** Foundation Data Analysis — Power testing, regression, Kaggle datasets
-- **IT628** Quantitative Risk Assessment — Threat modeling, risk matrices, MITRE ATT&CK
+- **IN555** Statistics for IT — R/Python statistical analysis
+- **IT527** Foundation Data Analysis — power testing, regression, Kaggle datasets
+- **IT628** Quantitative Risk Assessment — threat modeling, risk matrices, MITRE ATT&CK
 - **IN532** Blockchain Development — Solana Token-2022, Ethereum escrow, LogikaQBits dApp
-- **IT544** Platform Security — Cloud IAM, zero-trust, container hardening, incident response
-- **Research Writing in IT** — Graduate-level technical writing and literature review
+- **IT544** Platform Security — cloud IAM, zero-trust, container hardening, incident response
+- **Research Writing in IT** — graduate-level technical writing and literature review
 
 </td>
 <td width="45%" align="center">
@@ -297,23 +301,6 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>Graduate coursework highlights — click to expand</b></summary>
-<br/>
-
-| Course | Key Work | Tools |
-|---|---|---|
-| **IN532 Blockchain Dev** | LogikaQBits Token-2022 dApp, Ethereum escrow, smart contract security | Solana, Solidity, JS |
-| **IT544 Platform Security** | Zero-trust architecture, cloud IAM hardening, container security, incident response | Linux, Docker, IAM |
-| **IT628 Quantitative Risk** | Threat probability matrices, MITRE ATT&CK mapping, quantitative risk scoring | Python, Excel |
-| **IN555 Statistics for IT** | Inferential statistics for cybersecurity data, regression on threat datasets | R, Python, SPSS |
-| **IT527 Data Analysis** | Power testing, multivariate analysis, Kaggle security datasets | Python, Pandas |
-| **Research Writing in IT** | Graduate technical literature review and applied research methodology | APA 7th Ed. |
-
-**Why it matters:** Purdue Global's MS Cybersecurity curriculum bridges quantitative analysis with hands-on security engineering — the same skill set powering AI-driven SOC automation and threat inference pipelines aligned with NVIDIA GTC 2026 themes.
-
-</details>
 
 ---
 
@@ -335,16 +322,18 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 
 ### [Computer Science BS Gallery →](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/)
 
-A visual gallery of **58 portfolio pages** from Rasmussen University's Computer Science BS program — browsable by course with lightbox preview.
+A visual gallery of **58 portfolio pages** from Rasmussen University's Computer Science BS program — browsable by course with lightbox preview. [cite:3]
 
 **Courses covered:**
 - Inferential Statistics — USGS, NCLEX hospital analysis
-- Software Engineering — UML, Gantt, ACME systems
+- Software Engineering — UML, Gantt, systems design
 - Advanced Java — Logika Labs, Track.ly, Eclipse apps
 - Database — MySQL, CRUD, ER diagrams, Kaggle
-- Discrete Mathematics — Truth tables, Active Attack©
+- Discrete Mathematics — truth tables and the **Track Me / Transition Track** concept
 - Web Analytics — Google Analytics, Web 2.0 Conference
 - QA, Networks, OS Architecture, Emerging Technology
+
+> **Track Me — Transition Track concept:** Initially prototyped as an iPhone project‑management app and later formalized as the **Transition Track** enterprise transition‑tracking system in multiple BS CS and MS Cybersecurity white papers, focused on robust database design for large organizations.
 
 </td>
 <td width="45%" align="center">
@@ -357,6 +346,8 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 </td>
 </tr>
 </table>
+
+---
 
 ## Tech Stack
 
@@ -415,251 +406,8 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 | [**⭐ purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
 | [**⭐ rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
-| **quantumchoice-qdof** | Quantum-assisted retail decision optimization using QAOA (6-qubit, ~20% runtime reduction) | Qiskit, Python | 🔧 Building |
-| **ml-phishing-url-detector** | ML classifier that detects phishing URLs — bridging security and AI | Python, Scikit-Learn | 🔧 Building |
-| **cyber-soc-detection-lab** | SOC detection lab with log analysis, MITRE ATT&CK mapping | Python, Linux | 🔧 Building |
-| **qfla-quantum-financial-ledger** | Quantum financial ledger anomaly detection | Qiskit, Python | 🔧 Building |
 
 ---
 
 ## Certifications & Learning Path
 
-```
-✅ Purdue Global — Cybersecurity + Blockchain coursework (2026)
-✅ LogikaQBits dApp — Solana Token-2022 production deployment
-🎯 CompTIA Security+ — Exam target: June 2026
-📖 Andrew Ng Deep Learning Specialization — In progress
-📖 Hands-On ML (Scikit-Learn, Keras, TensorFlow) — In progress
-🔬 Quantum Computing with Qiskit — Active research
-```
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnelHenning2-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnelHenning2-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnelHenning2-collab&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-</p>
-
----
-
-## How I Study
-
-I use a **video-based Cornell note-taking system** — I record myself teaching every concept I learn, then review using spaced repetition. This approach forces deep understanding before anything goes in a repo.
-
-```
-📹 Record  →  📝 Cornell Notes  →  🔁 Spaced Repetition  →  💻 Build a project
-```
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnelHenning2-collab&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-
----
-
-
----
-
-## 🎨 UI/UX Design Portfolio — Adobe XD · Behance
-
-<p align="center">
-  <a href="https://www.behance.net/anellehenning" target="_blank">
-    <img src="https://img.shields.io/badge/Full_Portfolio_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/BFA_Graphic_Design-MICA_2003-c8a44a?style=for-the-badge" alt="BFA MICA"/>
-</p>
-
-> **Foundation:** BFA in Graphic Design — Maryland Institute College of Art (MICA), Baltimore, MD · 2003
->
-> 20+ years of design thinking underpins every system I build. The projects below are Adobe XD daily challenges and personal UX projects from 2018–2019. **Adobe XD** was used for all layout design, wireframing, user flows, and interactive prototyping. **Adobe Photoshop** was used for device mockups, compositing, and presentation imagery. All prototypes were built for **iPhone (notch-era, iPhone X form factor)**, **Apple Watch (Series 3)**, and **desktop (MacBook Pro / iMac)** as specified per challenge.
-
----
-
-### [Adobe XD Daily Challenges: August 2018 ↗](https://www.behance.net/gallery/69340895/Adobe-XD-Daily-Challenges-August-2018)
-
-<img src="assets/ux/bh-01-xd-daily-aug.jpg" width="100%" alt="XD Daily August 2018"/>
-
-**Tools:** Adobe XD (layout, prototype, user flow) · Photoshop (mockups) &nbsp;|&nbsp; **Devices:** iPhone (notch form factor) · Desktop browser &nbsp;|&nbsp; **Published:** August 22, 2018
-
-9-day Adobe XD Daily Challenge series. Each day addressed a distinct interaction design problem — from social networking to e-commerce to weather app redesign:
-
-- **Day 1 — Stories:** Designed and prototyped a *Stories* feature for a social networking mobile app called **Socialite** — added color, stock imagery, logo, and user flow transitions
-- **Day 2 — Get Feedback:** Prototyped a customer satisfaction survey pop-up for the **PRISM** fashion website — overlay interaction design for web
-- **Day 3 — Add to Cart:** Prototyped a sleek *Add to Cart* overlay experience — product page wireframe with cart overlay on item selection
-- **Day 4 — Weather Redesign:** Redesigned the **Dark Sky** weather app across 3 screens: Now, Today & Weekly Forecast
-- **Day 5 — Messaging App:** Designed a messaging prototype inspired by **Facebook Messenger** — contact list + conversation prototype
-- **Day 6 — Restaurant Reservation:** Designed a booking experience inspired by **OpenTable** — map-locate, select, and book
-- **Day 7 — Rent a Movie:** Prototyped a desktop movie rental experience inspired by **iTunes** — catalog browse, favorites, single movie card
-- **Day 8 — Search Redesign:** Redesigned the **Behance mobile app** search experience — autocomplete feature + optimized results display (2 versions)
-- **Day 9 — Freelancer Portfolio:** Designed a web portfolio experience with portrait, skills, job experience, and embedded XD challenge projects
-
----
-
-### [Chicly — XD Daily Challenge: Fashion Blog & App ↗](https://www.behance.net/gallery/69878835/XD-Daily-Challenge-Fashion-blog-and-app)
-
-<img src="assets/ux/bh-02-chicly.jpg" width="100%" alt="Chicly Fashion App"/>
-
-**Tools:** Adobe XD (layout, screens, prototype) · Photoshop (iPhone X & MacBook Pro mockups) &nbsp;|&nbsp; **Devices:** iPhone X · MacBook Pro &nbsp;|&nbsp; **Published:** 2018
-
-**Challenge brief:** *"Design a fashion blog with several user experience screens for a trendy women's fashion app."*
-
-**Chicly** — *"Follow your favorites."* A women's fashion discovery app that helps users follow and keep track of their favorite trends. Designed full end-to-end user flow across 6 screens:
-
-- **Splash/Login:** Sign in with Facebook, Twitter, or Email — *"Chicly. Follow your favorites."*
-- **Home Feed:** FEATURED · FOR YOU · COLLECTIONS navigation tabs with curated lifestyle editorial
-- **Shopping Cart:** Florida Summer by Marinatic · Nona Bronze Sandals by Ann Taylor · Light 5.5 by Olympus Design · Skull with Gold Flowers by Noon · The Aluminium Table by Conor McConely
-- **Checkout Confirmation:** *"Thank you! Your order is on its way."*
-- **Brand Landing Page:** *"Discover the best products, curated by a community with great taste."* — iOS & Android download CTAs
-- **Category Browse:** LIFESTYLE · HOME · WEARABLES — *"Join us to like products, follow friends, and create collections."*
-
----
-
-### [UX Daily Challenge: July 2018 ↗](https://www.behance.net/gallery/68541953/UX-Daily-Challenge-July-2018)
-
-<img src="assets/ux/bh-03-ux-july.jpg" width="100%" alt="UX Daily July 2018"/>
-
-**Tools:** Adobe XD (layout, prototype) · Kyle's Brushes &nbsp;|&nbsp; **Devices:** Apple Watch (smartwatch) · iPhone (mobile) · Desktop browser &nbsp;|&nbsp; **Published:** 2018
-
-9-day UX Daily Challenge spanning mobile, web, and smartwatch platforms. Apps designed: **PayPath**, **Thalia**, **Travely**, **Blossom**, **Listly**, **Urban Stripes**, **PRISM**:
-
-- **Day 1:** Survey mobile app — multiple choice question, confirm answers, show other participants' results
-- **Day 2:** Crowdfunding web page — prototype the *Make a Donation* flow
-- **Day 3, 4 & 7 — Travely:** Smart watch flight check-in — display flight info, confirm options, show QR boarding code. Integrated **FaceTime** option + **Lyft** scheduling for baggage claim pickup
-- **Day 4:** Electric scooter/shared vehicle rental mobile app — locate vehicle on map, book, complete transaction
-- **Day 5 — Blossom:** Flower ordering mobile app — filter by delivery date, scroll options
-- **Day 6 — PayPath:** Mobile peer-to-peer cash sending app — send via QR code or contact list shortcut
-- **Day 8 — Listly:** To-do list mobile app — task management, due dates, progress tracking
-- **Day 9 — PRISM / Urban Stripes:** Chatbot web experience for fictitious client **PRISM** fashion website customer assistance
-
----
-
-### [Adobe XD Daily Challenge: May 2018 ↗](https://www.behance.net/gallery/65921457/Adobe-XD-Daily-Challenge-May-2018)
-
-<img src="assets/ux/bh-04-xd-may.jpg" width="100%" alt="XD Daily May 2018"/>
-
-**Tools:** Adobe XD CC · Adobe InDesign CC · Adobe Illustrator/Draw CC · Photoshop/Sketch CC · Adobe Lightroom Mobile &nbsp;|&nbsp; **Devices:** iPhone · Apple Watch · Mac & PC &nbsp;|&nbsp; **Font:** DIN Condensed Bold 27pt · Apple Watch status bar 10:09 · iPhone status bar 9:41 &nbsp;|&nbsp; **Published:** 2018
-
-5-assignment challenge series covering activity tracking, weather, fintech, music, and portfolio design:
-
-- **Assignment 1 — Sweat (Activity Tracker):** Designed for women — all assets shown across iPhone and Apple Watch mockups; splash, onboarding, dashboard, and stat screens
-- **Assignment 2 — Weather App:** Full-bleed color splash screen for smartphone weather application
-- **Assignment 3 — Flixbooks (Movie Tickets):** Designed the movie ticket purchase user flow — how the user thinks through content selection, seat choice, and confirmation
-- **Assignment 4 — VOLUMN.LY (Music App):** Built from name and logotype through full screens — launch, splash, library, and search with keyboard
-- **Assignment 5 — CURATE.LY (Freelance Portfolio):** UI/UX designer personal portfolio — About Me, Contact Me, and Portfolio sections for FulCircle Creative Solutions
-
----
-
-### [Adobe XD Daily Challenge: June 2018 — Gasparilla Festival App ↗](https://www.behance.net/gallery/67026831/Adobe-XD-Daily-Challenge-June-2018)
-
-<img src="assets/ux/bh-05-xd-june-gasparilla.jpg" width="100%" alt="Gasparilla Festival App"/>
-
-**Tools:** Adobe XD · Adobe Illustrator · Photoshop · Adobe InDesign &nbsp;|&nbsp; **Devices:** iPhone · Apple Watch &nbsp;|&nbsp; **Design Style:** Bauhaus · **Published:** 2018
-
-**Challenge brief:** *"Design a logo for the Gasparilla festival in Tampa, FL. Showcase a mood board with 3 versions of the app for iPhone and smartwatch users."*
-
-Designed the full brand identity and dual-platform app for **Gasparilla** — Tampa's iconic pirate festival. Delivered:
-- Custom festival logo (Bauhaus-influenced design grid, Illustrator)
-- Mood board establishing visual language and color palette
-- 3-version app across **iPhone and Apple Watch** form factors
-- Features: *Plan your day* — Food · Map · Tickets — with category filters for Kids, Families, and Organic
-- Interactive prototypes for both iPhone and smartwatch user experiences
-- Photoshop used for all device mockup presentations
-
----
-
-### [Adobe Daily Challenge: 3 Luxury Brandscapes ↗](https://www.behance.net/gallery/68642179/Adobe-Daily-Challenge-Design-3-luxury-brandscapes)
-
-<img src="assets/ux/bh-06-spiaggia-hotel.jpg" width="100%" alt="Spiaggia Hotel Brandscape"/>
-
-**Tools:** Adobe Photoshop · Illustrator · InDesign · Adobe Sketch &nbsp;|&nbsp; **Font:** KOMU A 45pt · Questa Grande Medium 61pt &nbsp;|&nbsp; **Design Inspiration:** David Carson &nbsp;|&nbsp; **Published:** August 2, 2018
-
-**Challenge brief:** *"Design a logo, build a brandscape, and develop mock-ups for 3 fictional brands."* Used design grids for logos and text layouts; David Carson referenced for photo direction.
-
-Three complete brand identities built from concept to mock-up:
-
-1. **Red Diamond** — Fictional first-class airline under British Airways, UK-based. Identity built around the rarity and prestige of red diamonds. Full logo, brandscape, and airline collateral mockups
-2. **Shooting Stars Post** — Existing Tampa, FL film production company. Full-service creative agency: video production, post-production, motion graphics, and audio. Logo design, business card mockups, shopping bag, packaging, and cap merchandise
-3. **The Spiaggia Hotel** *(Spanish: "beach")* — Fictional adventurous boutique hotel on Venus Beach, FL. Outdoor amenities: surfing, sailing, hiking. Luxury lifestyle branding, logo, and full property mockup suite
-
----
-
-### [Personal Projects: Project Management & Mentor Apps ↗](https://www.behance.net/gallery/69355273/Personal-projects-project-management-and-mentor-apps)
-
-<img src="assets/ux/bh-07-personal-apps.jpg" width="100%" alt="Personal Apps"/>
-
-**Tools:** Adobe XD (layout, prototype, user flow) · Photoshop (device mockups) &nbsp;|&nbsp; **Devices:** iPhone X (notch form factor) &nbsp;|&nbsp; **Font:** Elido Regular 21pt &nbsp;|&nbsp; **Published:** August 22, 2018
-
-4 personal-project fictional app prototypes, each built from scratch with full screen sets and interactive user flows:
-
-- **Fictional App 1 — Track Me (Project Management):** Splash screen + goal tracking — screens: splash, login, menu, goals, time planner, passion, journal, and presents/rewards
-- **Fictional App 2 — Mentor App:** Search and list of people, splash screens after on-boarding — connecting mentors and mentees with browse and match flows
-- **Fictional App 3 — Email App:** Draft, schedule, and sent splash screens after on-boarding — full email client UX designed from the ground up
-- **Fictional App 4 — E-Commerce Shopping App:** Complete shopping experience prototype — browse, product detail, cart, and checkout
-
----
-
-### [Adobe XD Daily Challenges: September 2018 ↗](https://www.behance.net/gallery/70382205/Adobe-XD-Daily-Challenges-September)
-
-<img src="assets/ux/bh-08-xd-sep.jpg" width="100%" alt="XD Daily September 2018"/>
-
-**Tools:** Adobe XD (layout, prototype) · Photoshop (mockups) &nbsp;|&nbsp; **Devices:** iPhone (mobile) · Desktop/iMac (music player, time tracker, agency website) &nbsp;|&nbsp; **Published:** 2018
-
-9-day series spanning mobile apps, desktop software, and web components. Brands featured: **ARMYGEAR**, **Army Star**, **Scorpion (Drake album)**:
-
-- **XD01 — Personal Finance App (Mobile):** Design & prototype a personal finance app using Adobe XD template — color, content, and transition flows. Solution inspired by **Howard Pinsky's** live stream
-- **XD02 — Local Landing Page (Web):** Designed a landing page for **Tampa, FL** — city imagery, stock photography, local information
-- **XD03 — Newsletter Pop-Up (Web):** Designed and prototyped a newsletter subscription overlay experience for a website
-- **XD04 — Music Player Desktop App:** Full desktop music player — album content for **Scorpion (Drake)**, color system, prototype transitions
-- **XD05 — Appointment Booking App (Mobile):** Booking flow — select service, date/time, confirm appointment
-- **XD06 — Time Tracker Desktop App:** Designed a desktop time tracking tool with color system and content
-- **XD07 — Agency Team Page (Web):** Team page for **ARMYGEAR** / **Army Star** — team photos, pop-up profile detail prototype
-- **XD08 — Fitness Tracker Mobile App:** Fitness stats, workout tracking, mobile UI with full prototype transitions
-- **XD09 — Trivia Mobile App:** Designed a trivia game for mobile — color, questions, full user flow prototype
-
----
-
-<details>
-<summary><b>Full design skills & toolchain — click to expand</b></summary>
-<br/>
-
-| Discipline | Tools & Methods |
-|---|---|
-| **UX Layout Design** | Adobe XD — all wireframes, hi-fi screens, component libraries, linked symbols |
-| **Device Mockups** | Adobe Photoshop — iPhone X, Apple Watch Series 3, MacBook Pro, iMac, desktop browser |
-| **Brand Identity** | Adobe Illustrator — logo design, vector systems, brandscapes |
-| **Print & Layout** | Adobe InDesign — typographic layouts, print collateral, editorial |
-| **Photo Compositing** | Photoshop — blending modes, double exposure, puppet warp, channel masking |
-| **Prototyping** | Adobe XD — interactive flows, transitions, overlays, development handoff |
-| **Animation** | Photoshop CC — GIF animation from illustrations |
-| **Design Systems** | Color palettes, typography hierarchies, linked symbols, repeat grids |
-| **Platforms Designed For** | iPhone (X/notch form factor) · Apple Watch Series 3 · MacBook Pro · iMac · Desktop browser |
-| **Foundation** | BFA Graphic Design — Maryland Institute College of Art (MICA), Baltimore, MD · 2003 |
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnelHenning2-collab&label=Profile+Views&color=00D4FF&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <sub>Built with <a href="https://www.perplexity.ai/computer">Perplexity Computer</a> · Tampa, FL · 2026</sub>
-</p>
