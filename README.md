@@ -411,3 +411,76 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 
 ## Certifications & Learning Path
 
+---
+
+## 🎨 Adobe XD Design Prototypes — UX Portfolio (Page 21)
+
+<p align="center">
+  <a href="https://github.com/AnelHenning2-collab/PurdueGlobal/tree/main/portfolio/21-adobe-xd-design-prototypes" target="_blank">
+    <img src="https://img.shields.io/badge/View_Page_21-Adobe_XD_Prototypes-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Page 21"/>
+  </a>
+  &nbsp;
+  <a href="https://anelhenning2-collab.github.io/purdue-grad-samples-2026/" target="_blank">
+    <img src="https://img.shields.io/badge/Full_Portfolio-purdue--grad--samples--2026-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Full Portfolio"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+### [Adobe XD Design Prototypes →](https://github.com/AnelHenning2-collab/PurdueGlobal/tree/main/portfolio/21-adobe-xd-design-prototypes)
+
+A collection of **UI/UX prototypes** built in Adobe XD across multiple industries — demonstrating brand identity design, mobile app prototyping, and complete hospitality branding packages.
+
+**Projects included:**
+- **PayPath** — Financial app prototype with clean mobile payment interface
+- **Chicly** — Boutique shopping app with elegant typography and fashion-forward design
+- **Sweat** — Fitness tracking and workout planning app with energetic design language
+- **Shooting Stars Post** — Professional photographer brand identity (logo, stationery, marketing)
+- **The Spiaggia Hotel** — Complete Italian hotel brand package: brand guidelines, signage system, stationery, and lifestyle poster
+
+**Programs:** Adobe XD · Adobe InDesign · Adobe Photoshop
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://img.shields.io/badge/5_Design_Projects-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/UI%2FUX-Prototyping-00b4d8?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Brand_Identity-Hospitality_%7C_Finance_%7C_Fitness-c8a44a?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Mobile_App_Design-3_Apps-30363d?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Adobe_Creative_Suite-XD_%7C_InDesign_%7C_Photoshop-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧱 Foundations — User Experience Developer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Where_It_Started-User_Experience_Developer-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+</p>
+
+My journey into cybersecurity, machine learning, and blockchain started from a foundation in **User Experience Development**. Before diving into security protocols and quantum computing, I was designing interfaces, building brand systems, and prototyping mobile applications — work that gave me a deep understanding of how users interact with technology and where those interactions create risk.
+
+This UX foundation shapes everything I build:
+
+- **Security starts at the interface** — understanding user flows helps me identify social engineering attack surfaces and design secure-by-default experiences
+- **Design thinking meets threat modeling** — prototyping taught me to think in scenarios, the same skill used in incident response playbooks and penetration testing briefs
+- **Brand identity → system architecture** — the discipline of building cohesive brand systems (typography, color, hierarchy) translates directly to clean architecture diagrams, documentation, and technical white papers
+- **Adobe Creative Suite → Technical Documentation** — the visual skills from Adobe XD, InDesign, and Photoshop now power every Visio diagram, Gantt chart, and portfolio presentation I create
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-00b4d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prototyping-c8a44a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Brand_Systems-8b6914?style=flat-square" />
+</p>
+
+> *My career started as a User Experience Developer — and that perspective is embedded in every cybersecurity deliverable, every lab report, and every line of code I write today.*
+
