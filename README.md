@@ -21,6 +21,37 @@
 
 ---
 
+<!-- 📬 Contact & Newsletter Nugget -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="border: none;">
+
+<img src="https://img.shields.io/badge/📬_Let's_Connect-Get_in_Touch_or_Subscribe-00D4FF?style=for-the-badge" alt="Let's Connect" />
+
+<br/><br/>
+
+<a href="https://anelhenning2-collab.github.io/contact-hub/contact.html">
+  <img src="https://img.shields.io/badge/✉️_Contact_Me-Let's_Talk-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://anelhenning2-collab.github.io/contact-hub/contact.html#newsletter">
+  <img src="https://img.shields.io/badge/📰_Newsletter-Sign_Up-22C55E?style=for-the-badge&logoColor=white" alt="Sign Up for Newsletter"/>
+</a>
+
+<br/><br/>
+
+<sub>Interested in cybersecurity, quantum computing, or ML projects? Drop a message or subscribe for updates.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## About Me
 
 I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI, security, and blockchain infrastructure. I build systems that detect, classify, and respond to threats using machine learning, and I design decentralized token infrastructure aligned with the latest advances in AI inference computing. [cite:3]
