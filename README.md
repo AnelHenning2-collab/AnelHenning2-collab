@@ -172,42 +172,10 @@ The proposal is shaped by published research from quantum computing faculty at *
 
 </details>
 
-### 🎬 GlideCart – Day-in-the-Life Storyboard
-
-A typical GlideCart workday can be broken into staged scenes, similar to the concept video: [cite:3]
-
-1. **Morning startup & checkout**  
-   GlideCart undocks from its charging station before store opening, runs self-diagnostics (sensors, wheels, cameras, battery), and checks in with the store backend for route assignments and software updates.
-
-2. **Aisle navigation & item recognition**  
-   The cart enters the first aisle on a planned route, using LiDAR/vision to map shelves and obstacles in real time, while onboard models detect products and align them with the inventory database.
-
-3. **Customer assist mode**  
-   A shopper scans a QR code or uses the mobile app to summon GlideCart, which navigates to the customer and guides them through the store along a personalized route based on their shopping list.
-
-4. **Dynamic routing & congestion handling**  
-   When aisles are blocked or crowded, GlideCart reroutes using updated pathfinding (routing ML baseline + future QAOA experiments), slowing and signaling intent to coordinate with other carts and shoppers.
-
-5. **Secure checkout & payments**  
-   At checkout, GlideCart verifies contents against its internal item log and processes payment via a secure mobile or kiosk interface, protected by the post‑quantum crypto architecture from Lab 2.
-
-6. **Back-of-house logistics**  
-   GlideCart switches to staff mode for restocking and moving items from back room to shelves, optimizing routes for bulk loads and repeated trips while maintaining safety in shared spaces.
-
-7. **Evening shutdown & data sync**  
-   At closing, GlideCart returns to its dock, uploads anonymized telemetry and logs, and feeds routing, security, and error events back into the lab models for the next iteration.
-
-### 🛠️ GlideCart Hardware & Build Spec (Planned)
-
-Next steps focus on a full **build spec** for GlideCart as a physical system: [cite:3]
-
-- **Wireframes & UX flows:** Cart control app, store dashboards, and maintenance tools.
-- **Bill of Materials (BOM):** Motors, sensors, compute (GPU/edge), chassis, batteries; vendor and sourcing plan.
-- **Cost & timelines:** Per‑unit cost estimates and prototype → pilot → scale deployment timelines.
-- **Physical specs:** Dimensions, turning radius, payload capacity, and safety clearances.
-- **ML + Quantum pipeline:** How routing, encryption, and error‑correction models map onto onboard and cloud hardware.
+> **Investor Content:** The GlideCart Day-in-the-Life Storyboard and Hardware Build Spec are available to authorized investors. [Request access →](https://anelhenning2-collab.github.io/glidecart-research/investors.html)
 
 ---
+
 
 ## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
 
