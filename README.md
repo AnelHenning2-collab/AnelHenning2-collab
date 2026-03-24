@@ -115,68 +115,21 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 
 ---
 
-## 🛒 GlideCart — Autonomous Retail Vehicle Research Proposal
+## 🛒 GlideCart — Autonomous Retail Vehicle
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/glidecart-research/" target="_blank">
-    <img src="https://img.shields.io/badge/GlideCart_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Live"/>
+    <img src="https://img.shields.io/badge/GlideCart-View_Live_Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart"/>
   </a>
   &nbsp;
-  <a href="https://github.com/AnelHenning2-collab/glidecart-research" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repo-glidecart--research-30363d?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Repo"/>
+  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
+    <img src="https://img.shields.io/badge/Research_Labs-View_Live_Site-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="Research Labs"/>
   </a>
 </p>
 
-<table>
-<tr>
-<td width="55%">
-
-### [GlideCart — Autonomous Grocery Delivery Vehicle](https://anelhenning2-collab.github.io/glidecart-research/)
-
-GlideCart is an autonomous shopping and delivery vehicle concept for grocery logistics — conceived during graduate research at Purdue Global (MS Cybersecurity Management, 2026). The project evolved into a formal PhD research proposal exploring whether emerging quantum computing tools could solve real routing, security, and navigation challenges in retail environments. [cite:3]
-
-The proposal is shaped by published research from quantum computing faculty at **Harvard**, **MIT**, **Yale**, **Stanford**, **University of Chicago**, **University of Maryland**, **IonQ**, **PsiQuantum**, and **Quantinuum** — each institution's focus area informs a different pillar of the GlideCart architecture. [cite:3]
-
-**Research proposal highlights:**
-- **Autonomous navigation concept** — ROS-based pathfinding + AI-driven item recognition software stack
-- **Post-quantum security research** — exploring lattice-based cryptography and AES hybrid models for retail data protection
-- **Delivery scheduling investigation** — optimization approaches for grocery routing problems
-- **5-phase development roadmap** — Q1 2026 through 2030+, with budget and risk mitigation framework
-- **$14.5M research budget model** across 5 risk pillars with reduction targets
-
-**[View Full Portfolio →](https://anelhenning2-collab.github.io/glidecart-research/)**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/AnelHenning2-collab/glidecart-research/main/assets/glidecart/gc-grok3-scene1.jpg" width="100%" alt="GlideCart autonomous vehicle" style="border-radius:8px;"/><br/>
-<sub>GlideCart navigating grocery store aisles — item recognition active</sub><br/><br/>
-
-<img src="https://img.shields.io/badge/Autonomous-Navigation_(ROS)-00b4d8?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Post--Quantum-Encryption_Research-6929C4?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/9_Institutions-Harvard_%7C_MIT_%7C_Yale_%7C_more-c8a44a?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/5--Phase-Roadmap_2026--2030-22C55E?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Research documents produced — click to view</b></summary>
-<br/>
-
-| Document | What it covers | Download |
-|---|---|---|
-| **Executive Summary** | 1-page overview of the GlideCart concept — autonomous grocery navigation, Jan 2026 | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ExecutiveSummary.pdf) |
-| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, budget breakdowns, and reduction targets | [🔒 Investor Access](https://anelhenning2-collab.github.io/glidecart-research/investors.html) |
-| **Development Roadmap** | 17-page 5-phase roadmap with institution research alignment and budget per phase | [🔒 Investor Access](https://anelhenning2-collab.github.io/glidecart-research/investors.html) |
-
-</details>
-
-> **Investor Content:** The GlideCart Day-in-the-Life Storyboard and Hardware Build Spec are available to authorized investors. [Request access →](https://anelhenning2-collab.github.io/glidecart-research/investors.html)
+An autonomous shopping and delivery vehicle concept for grocery logistics — quantum AI navigation, post-quantum encryption, and a 5-phase development roadmap through 2030.
 
 ---
-
 
 ## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
 
