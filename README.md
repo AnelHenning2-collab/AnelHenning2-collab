@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
   <a href="https://anelhenning2-collab.github.io/contact-hub/"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Contact_Me-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
   <a href="https://anelhenning2-collab.github.io/contact-hub/#newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%B0_Newsletter-Sign_Up-9945FF?style=for-the-badge&logoColor=white" alt="Newsletter Sign Up"/></a>
+  <a href="https://www.gofundme.com/f/help-anel-earn-security-plus-certification" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%9B_Fund_My_Research-GoFundMe-00b964?style=for-the-badge&logoColor=white" alt="GoFundMe"/></a>
 </p>
 
 ---
@@ -167,8 +168,8 @@ The proposal is shaped by published research from quantum computing faculty at *
 | Document | What it covers | Download |
 |---|---|---|
 | **Executive Summary** | 1-page overview of the GlideCart concept — autonomous grocery navigation, Jan 2026 | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_ExecutiveSummary.pdf) |
-| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, budget breakdowns, and reduction targets | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_FinancialRiskPlan.pdf) |
-| **Development Roadmap** | 17-page 5-phase roadmap with institution research alignment and budget per phase | [📄 PDF](https://github.com/AnelHenning2-collab/AnelHenning2-collab/raw/main/assets/docs/GlideCart_Roadmap.pdf) |
+| **Financial Risk Plan** | 19-page risk mitigation matrix — 5 pillars, budget breakdowns, and reduction targets | [🔒 Investor Access](https://anelhenning2-collab.github.io/glidecart-research/investors.html) |
+| **Development Roadmap** | 17-page 5-phase roadmap with institution research alignment and budget per phase | [🔒 Investor Access](https://anelhenning2-collab.github.io/glidecart-research/investors.html) |
 
 </details>
 
@@ -184,7 +185,7 @@ The proposal is shaped by published research from quantum computing faculty at *
     <img src="https://img.shields.io/badge/View_Lab_Report_Site-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Labs"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/AnelHenning2-collab/glidecart-labs" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-0d1b3e?style=for-the-badge&logo=github&logoColor=c8a44a" alt="Lab Source Code"/>
   </a>
 </p>
@@ -193,10 +194,10 @@ Four labs, each tied directly to one research question in the PhD thesis stateme
 
 | Lab | Research Question (Thesis) | Key Result |
 |-----|---------------------------|------------|
-| **[Lab 1 — Routing](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab1-routing)** | Can hybrid quantum-classical optimization and ML improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
-| **[Lab 2 — Encryption](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab2-encryption)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — similar latency to RSA, quantum-safe |
-| **[Lab 3 — Error Correction](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab3-error-correction)** | How can QEC principles and ML error modeling enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
-| **[Lab 4 — Hardware Spec](https://github.com/AnelHenning2-collab/glidecart-labs/tree/master/lab4-hardware-spec)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
+| **[Lab 1 — Routing](https://anelhenning2-collab.github.io/glidecart-labs/#lab1)** | Can hybrid quantum-classical optimization and ML improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
+| **[Lab 2 — Encryption](https://anelhenning2-collab.github.io/glidecart-labs/#lab2)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — similar latency to RSA, quantum-safe |
+| **[Lab 3 — Error Correction](https://anelhenning2-collab.github.io/glidecart-labs/#lab3)** | How can QEC principles and ML error modeling enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
+| **[Lab 4 — Hardware Spec](https://anelhenning2-collab.github.io/glidecart-labs/#lab4)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
 
 > **Honest framing:** These labs establish the classical baseline a PhD program would extend. Hardware experiments (QAOA, Steane code, QSVM) require PhD lab access at UMD QuICS, Harvard HQI, or U. Chicago CQE — PhD targets for 2027. [cite:3]
 
