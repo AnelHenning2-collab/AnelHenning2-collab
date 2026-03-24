@@ -316,6 +316,28 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 
 ---
 
+---
+
+## Support This Research
+
+<p align="center">
+  <a href="https://www.gofundme.com/your-campaign-slug" target="_blank">
+    <img src="https://img.shields.io/badge/GoFundMe-Support_Open--Source_Teaching_%26_Research-c8a44a?style=for-the-badge&logoColor=white" alt="GoFundMe"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/AnelHenning2-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_My_Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+</p>
+
+Your contribution funds prototyping, pilot deployments, curriculum development, and academic validation for **GlassVision™**, **ImpulseGuard™**, **GlideCart**, and the **Quantum Retail Robotics Initiative**.
+
+- **Prototyping:** T-OLED displays, neuromorphic chips, modular robotics
+- **Education:** Open-source curricula for ML, quantum computing, and cybersecurity
+- **Civic Tech:** Tampa-based pilot deployments for ethical retail automation
+
+---
+
 ## Tech Stack
 
 ### Blockchain & Web3
