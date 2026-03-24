@@ -14,8 +14,8 @@
   <a href="https://github.com/AnelHenning2-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Tampa%2C%20FL-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
-  <a href="https://anelhenning2-collab.github.io/contact-hub/contact.html"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Contact_Me-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
-  <a href="https://anelhenning2-collab.github.io/contact-hub/contact.html#newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%B0_Newsletter-Sign_Up-9945FF?style=for-the-badge&logoColor=white" alt="Newsletter Sign Up"/></a>
+  <a href="https://anelhenning2-collab.github.io/contact-hub/"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Contact_Me-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
+  <a href="https://anelhenning2-collab.github.io/contact-hub/#newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%B0_Newsletter-Sign_Up-9945FF?style=for-the-badge&logoColor=white" alt="Newsletter Sign Up"/></a>
 </p>
 
 ---
