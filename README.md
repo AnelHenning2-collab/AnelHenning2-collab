@@ -321,7 +321,7 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 ## Support This Research
 
 <p align="center">
-  <a href="https://www.gofundme.com/your-campaign-slug" target="_blank">
+  <a href="https://gofund.me/0bf5ef2f" target="_blank">
     <img src="https://img.shields.io/badge/GoFundMe-Support_Open--Source_Teaching_%26_Research-c8a44a?style=for-the-badge&logoColor=white" alt="GoFundMe"/>
   </a>
   &nbsp;
