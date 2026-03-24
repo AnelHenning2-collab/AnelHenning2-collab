@@ -8,47 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anel+Henning+%F0%9F%91%8B;Cybersecurity+%2B+ML+Engineer;Blockchain+%26+Token+Infrastructure;Building+at+the+intersection+of+AI+%26+Security" alt="Typing SVG" />
 </h1>
 
+<!-- Identity + Contact — single flowing badge strip -->
 <p align="center">
-  <a href="mailto:anelhenning2@student.purdueglobal.edu">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/AnelHenning2-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:anelhenning2@student.purdueglobal.edu"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AnelHenning2-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Tampa%2C%20FL-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io-badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
+  <a href="https://anelhenning2-collab.github.io/contact-hub/contact.html"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Contact_Me-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
+  <a href="https://anelhenning2-collab.github.io/contact-hub/contact.html#newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%B0_Newsletter-Sign_Up-9945FF?style=for-the-badge&logoColor=white" alt="Newsletter Sign Up"/></a>
 </p>
-
----
-
-<!-- 📬 Contact & Newsletter Nugget -->
-<div align="center">
-
-<table>
-<tr>
-<td align="center" style="border: none;">
-
-<img src="https://img.shields.io/badge/📬_Let's_Connect-Get_in_Touch_or_Subscribe-00D4FF?style=for-the-badge" alt="Let's Connect" />
-
-<br/><br/>
-
-<a href="https://anelhenning2-collab.github.io/contact-hub/contact.html">
-  <img src="https://img.shields.io/badge/✉️_Contact_Me-Let's_Talk-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://anelhenning2-collab.github.io/contact-hub/contact.html#newsletter">
-  <img src="https://img.shields.io/badge/📰_Newsletter-Sign_Up-22C55E?style=for-the-badge&logoColor=white" alt="Sign Up for Newsletter"/>
-</a>
-
-<br/><br/>
-
-<sub>Interested in cybersecurity, quantum computing, or ML projects? Drop a message or subscribe for updates.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
