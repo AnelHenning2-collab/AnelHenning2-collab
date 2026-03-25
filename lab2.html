@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab 2 — Post-Quantum Retail Encryption</title>
+</head>
+<body>
+  <h1>Lab 2 — Post-Quantum Retail Encryption</h1>
+
+  <h2>Vague Hypothesis</h2>
+  <p>
+    A post-quantum key-establishment scheme combined with a high-strength
+    symmetric cipher will provide security and performance suitable for
+    protecting retail data against quantum-capable adversaries, when compared
+    with a legacy key-exchange design.
+  </p>
+
+  <h2>Background (Conceptual)</h2>
+  <p>
+    Modern public-key systems used in retail environments are vulnerable in
+    principle to sufficiently powerful quantum computers. Lattice-based
+    key-establishment mechanisms and other post-quantum approaches aim to offer
+    long-term confidentiality while still enabling practical deployment.
+    Hybrid designs pair such mechanisms with established symmetric ciphers to
+    secure bulk data once a shared secret is derived.
+  </p>
+
+  <h2>Design Overview (Quasi-Comparative)</h2>
+  <ul>
+    <li><strong>Independent variable:</strong> Key-establishment architecture
+      (legacy public-key based versus hybrid post-quantum plus symmetric).</li>
+    <li><strong>Dependent variables:</strong> Qualitative security properties,
+      message sizes, and approximate latency/throughput behavior for typical
+      retail operations.</li>
+    <li><strong>Design:</strong> Both architectures are analyzed under the same
+      threat model and workload assumptions; detailed protocol parameters remain
+      private.</li>
+  </ul>
+
+  <h2>Student-Facing Tasks (High Level)</h2>
+  <ol>
+    <li>Summarize why traditional public-key systems are at risk in a
+      post-quantum setting.</li>
+    <li>Describe, in general terms, how a lattice-based or similar
+      post-quantum mechanism can be combined with a symmetric cipher in a
+      retail architecture.</li>
+    <li>Identify criteria (security, performance, deployability) that a retailer
+      should consider when comparing a legacy design with a hybrid
+      post-quantum design.</li>
+    <li>Outline an evaluation plan that compares both architectures without
+      revealing specific implementation details.</li>
+  </ol>
+
+  <h2>Deliverables</h2>
+  <ul>
+    <li>An architecture-focused report explaining the two designs, your
+      evaluation criteria, and your reasoned judgment about the hypothesis.</li>
+    <li>Implementation specifics, configuration values, and code remain in
+      private lab materials and are not described in this HTML.</li>
+  </ul>
+</body>
+</html>
