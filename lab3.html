@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab 3 — Quantum Error Correction and Modeling</title>
+</head>
+<body>
+  <h1>Lab 3 — Quantum Error Correction and Modeling</h1>
+
+  <h2>Vague Hypothesis</h2>
+  <p>
+    Encoding information with a moderate-distance quantum error-correcting code
+    and modeling error behavior will reduce effective error rates compared with
+    using unencoded qubits subject to similar physical noise.
+  </p>
+
+  <h2>Background (Conceptual)</h2>
+  <p>
+    Quantum error-correcting codes trade additional physical resources for
+    improved reliability of logical information. Simple codes show, in theory
+    and in simulation, that under certain noise regimes the probability of a
+    logical error can be significantly lower than the probability of an error
+    on any single physical carrier. Error modeling and prediction can further
+    inform how such codes are deployed in larger systems.
+  </p>
+
+  <h2>Design Overview (Simulation-Based)</h2>
+  <ul>
+    <li><strong>Independent variable:</strong> Protection scheme and modeling
+      strategy (unencoded versus encoded, with or without an error model).</li>
+    <li><strong>Dependent variables:</strong> Empirical logical error rates,
+      estimated improvement factors, and quality of any model used to predict
+      failures.</li>
+    <li><strong>Design:</strong> Simulated experiments apply comparable noise to
+      different protection schemes and aggregate outcomes; specific circuits,
+      noise parameters, and models are maintained privately.</li>
+  </ul>
+
+  <h2>Student-Facing Tasks (High Level)</h2>
+  <ol>
+    <li>Explain the conceptual difference between a physical qubit and a logical
+      qubit protected by an error-correcting code.</li>
+    <li>Describe how you would, in principle, estimate logical error rates under
+      a given noise process.</li>
+    <li>Propose a way to compare protected and unprotected information so that
+      any observed reliability improvement can be quantified.</li>
+    <li>Outline how a simple error model or predictor could help anticipate
+      when protection might fail, without specifying concrete algorithms or
+      parameters.</li>
+  </ol>
+
+  <h2>Deliverables</h2>
+  <ul>
+    <li>A brief report describing the conceptual simulation design, key outcome
+      measures, and your interpretation of whether the hypothesis is supported
+      under the assumed conditions.</li>
+    <li>Any detailed simulation code, circuit constructions, and parameter
+      choices are kept in private lab documentation and not exposed here.</li>
+  </ul>
+</body>
+</html>
