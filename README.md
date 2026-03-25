@@ -406,5 +406,13 @@ A collection of **UI/UX prototypes** built in Adobe XD across multiple industrie
   <img src="https://img.shields.io/badge/Where_It_Started-User_Experience_Developer-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 </p>
 
-I hold a **BFA in Graphic Design** with a concentration in User Experience — the foundation behind every brand project, prototype, and design system in this portfolio.
+Born and raised in **Pretoria, South Africa**, I grew up with a deep curiosity in visual arts and computer science — two disciplines that have shaped every chapter of my career.
+
+I hold a **BFA in Graphic Design** from the **Maryland Institute College of Art (MICA)**, graduating in May 2003. After graduation, I relocated to **Manhattan, New York**, where I worked as a professional graphic designer in advertising, book design, and branding for nearly a decade.
+
+I later relocated to **Durham, North Carolina**, and then to **Tampa, Florida**, where I continued my passion for ad-layout design at **Publix Supermarkets** and sharpened my user experience skills through **Adobe XD Daily Challenges** — prototyping mobile apps, hospitality branding packages, and financial interfaces.
+
+In 2023, I earned a **Bachelor of Science in Computer Science** from **Rasmussen University**, covering software engineering, databases, Java development, and discrete mathematics. I am currently completing a **Master of Science in Cybersecurity Management** at **Purdue Global University** (expected graduation 2026), with a concentration in **blockchain dApp technologies** — including the LogikaQBits Token Factory built on Solana Token-2022 and Ethereum smart contracts.
+
+During graduate school, I founded **Logika Coders** in Tampa, Florida — a registered technology company focused on building machine learning labs, quantum computing research proposals, and ethical retail automation products including GlideCart, GlassVision, ImpulseGuard, and the Quantum Retail Robotics Initiative.
 
