@@ -10,13 +10,9 @@
 
 <!-- Identity + Contact — single flowing badge strip -->
 <p align="center">
-  <a href="mailto:anelhenning2@student.purdueglobal.edu"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/AnelHenning2-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Tampa%2C%20FL-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-22C55E?style=for-the-badge" alt="Open To Work"/>
   <a href="https://anelhenning2-collab.github.io/contact-hub/"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Contact_Me-01696F?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
-  <a href="https://anelhenning2-collab.github.io/contact-hub/#newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%B0_Newsletter-Sign_Up-9945FF?style=for-the-badge&logoColor=white" alt="Newsletter Sign Up"/></a>
-  <a href="https://www.gofundme.com/f/help-anel-earn-security-plus-certification" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%9B_Fund_My_Research-GoFundMe-00b964?style=for-the-badge&logoColor=white" alt="GoFundMe"/></a>
 </p>
 
 ---
@@ -275,20 +271,12 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 ## Support This Research
 
 <p align="center">
-  <a href="https://www.gofundme.com/f/help-anel-earn-security-plus-certification" target="_blank">
-    <img src="https://img.shields.io/badge/GoFundMe-Support_Open--Source_Teaching_%26_Research-c8a44a?style=for-the-badge&logoColor=white" alt="GoFundMe"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/sponsors/AnelHenning2-collab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_My_Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
   </a>
 </p>
 
-Your contribution funds prototyping, pilot deployments, curriculum development, and academic validation for **GlassVision™**, **ImpulseGuard™**, **GlideCart**, and the **Quantum Retail Robotics Initiative**.
-
-- **Prototyping:** T-OLED displays, neuromorphic chips, modular robotics
-- **Education:** Open-source curricula for ML, quantum computing, and cybersecurity
-- **Civic Tech:** Tampa-based pilot deployments for ethical retail automation
+Your contribution funds prototyping, pilot deployments, curriculum development, and open-source education tools.
 
 ---
 
@@ -356,19 +344,7 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 ---
 
-## 🧱 Foundations — User Experience Developer
+## 🧱 Foundations
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Where_It_Started-User_Experience_Developer-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-</p>
-
-Born and raised in **Pretoria, South Africa**, I grew up with a deep curiosity in visual arts and computer science — two disciplines that have shaped every chapter of my career.
-
-I hold a **BFA in Graphic Design** from the **Maryland Institute College of Art (MICA)**, graduating in May 2003. Beyond client work, I was deeply involved in the design community — helping build **AIGA chapters** and serving as **Sponsorship Director**, organizing volunteer meetings and connecting designers with industry partners. After graduation, I relocated to **Manhattan, New York**, where I worked as a professional graphic designer in advertising, book design, and branding for nearly a decade.
-
-I later relocated to **Durham, North Carolina**, and then to **Tampa, Florida**, where I continued my passion for ad-layout design at **Publix Supermarkets** and sharpened my user experience skills through **Adobe XD Daily Challenges** — prototyping mobile apps, hospitality branding packages, and financial interfaces.
-
-In 2023, I earned a **Bachelor of Science in Computer Science** from **Rasmussen University**, covering software engineering, databases, Java development, and discrete mathematics. I am currently completing a **Master of Science in Cybersecurity Management** at **Purdue Global University** (expected graduation 2026), with a concentration in **blockchain dApp technologies** — including the LogikaQBits Token Factory built on Solana Token-2022 and Ethereum smart contracts.
-
-During graduate school, I founded **Logika Coders** in Tampa, Florida — a registered technology company focused on building machine learning labs, quantum computing research proposals, and ethical retail automation products including GlideCart, GlassVision, ImpulseGuard, and the Quantum Retail Robotics Initiative. The same curiosity that drove me to build AIGA chapters and connect creative professionals now drives my work in cybersecurity and computer science — building communities, sharing knowledge, and solving real problems.
+My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and I am currently completing an MS in Cybersecurity Management. I founded **Logika Coders** — a technology company focused on machine learning, quantum computing research, and ethical retail automation.
 
