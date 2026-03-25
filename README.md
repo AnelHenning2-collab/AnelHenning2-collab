@@ -75,7 +75,7 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 - Deep learning token augmentation — inference throughput mapped to on-chain mint pipeline
 - Authority revocation = frozen model weights — immutable, trustless supply
 
-**[View Repo →](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)** &nbsp;|&nbsp; **[Live Demo →](https://anelhenning2-collab.github.io/LogikaQBits-dApp/)**
+**[View Repo →](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)** &nbsp;|&nbsp; **[Live Demo →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)**
 
 </td>
 <td width="40%" align="center">
@@ -114,11 +114,11 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 ## 🛒 GlideCart — Autonomous Retail Vehicle
 
 <p align="center">
-  <a href="https://anelhenning2-collab.github.io/glidecart-research/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/GlideCart-View_Live_Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart"/>
   </a>
   &nbsp;
-  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/Research_Labs-View_Live_Site-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="Research Labs"/>
   </a>
 </p>
@@ -130,11 +130,11 @@ An autonomous shopping and delivery vehicle concept for grocery logistics — qu
 ## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
 
 <p align="center">
-  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/View_Lab_Report_Site-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart Labs"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://anelhenning2-collab.github.io/glidecart-labs/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-0d1b3e?style=for-the-badge&logo=github&logoColor=c8a44a" alt="Lab Source Code"/>
   </a>
 </p>
@@ -143,10 +143,10 @@ Four labs, each tied directly to one research question in the PhD thesis stateme
 
 | Lab | Research Question (Thesis) | Key Result |
 |-----|---------------------------|------------|
-| **[Lab 1 — Routing](https://anelhenning2-collab.github.io/glidecart-labs/#lab1)** | Can hybrid quantum-classical optimization and ML improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
-| **[Lab 2 — Encryption](https://anelhenning2-collab.github.io/glidecart-labs/#lab2)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — similar latency to RSA, quantum-safe |
-| **[Lab 3 — Error Correction](https://anelhenning2-collab.github.io/glidecart-labs/#lab3)** | How can QEC principles and ML error modeling enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
-| **[Lab 4 — Hardware Spec](https://anelhenning2-collab.github.io/glidecart-labs/#lab4)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
+| **[Lab 1 — Routing](https://anelhenning2-collab.github.io/logical-learning/showcase.html#lab1)** | Can hybrid quantum-classical optimization and ML improve retail routing over classical heuristics? | SA beats NN by **5.0%** — QAOA requires 12 qubits on IonQ Forte |
+| **[Lab 2 — Encryption](https://anelhenning2-collab.github.io/logical-learning/showcase.html#lab2)** | What cryptographic architecture protects retail data in a post-quantum threat landscape? | **Kyber-768 + AES-256 hybrid** (NIST FIPS 203) — similar latency to RSA, quantum-safe |
+| **[Lab 3 — Error Correction](https://anelhenning2-collab.github.io/logical-learning/showcase.html#lab3)** | How can QEC principles and ML error modeling enable fault-tolerant fleet communication? | Steane [7,1,3] reduces logical error by **79%** at 1% physical noise |
+| **[Lab 4 — Hardware Spec](https://anelhenning2-collab.github.io/logical-learning/showcase.html#lab4)** | What is the minimum viable quantum hardware spec for GlideCart's algorithms? | **IonQ Forte** — all-to-all, 0.07% gate error — only system where all 3 algorithms are viable today |
 
 > **Honest framing:** These labs establish the classical baseline a PhD program would extend. Hardware experiments (QAOA, Steane code, QSVM) require PhD lab access at UMD QuICS, Harvard HQI, or U. Chicago CQE — PhD targets for 2027. [cite:3]
 
@@ -178,7 +178,7 @@ An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, w
 ## 🔐 Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
-  <a href="https://anelhenning2-collab.github.io/purdue-grad-samples-2026/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/View_Cybersecurity_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio"/>
   </a>
   &nbsp;
@@ -195,7 +195,7 @@ An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, w
 <tr>
 <td width="55%">
 
-### [MS Cybersecurity Gallery →](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/)
+### [MS Cybersecurity Gallery →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)
 
 A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. [cite:3]
 
@@ -224,7 +224,7 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 ## 🖥️ Computer Science Portfolio — Rasmussen University
 
 <p align="center">
-  <a href="https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/View_CS_Portfolio-Live%20Site-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="CS Portfolio"/>
   </a>
   &nbsp;
@@ -237,7 +237,7 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 <tr>
 <td width="55%">
 
-### [Computer Science BS Gallery →](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/)
+### [Computer Science BS Gallery →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)
 
 A visual gallery of **58 portfolio pages** from Rasmussen University's Computer Science BS program — browsable by course with lightbox preview. [cite:3]
 
@@ -334,8 +334,8 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**⭐ LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
-| [**⭐ purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/purdue-grad-samples-2026/) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
-| [**⭐ rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/rasmussen-cs-portfolio/) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
+| [**⭐ purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
+| [**⭐ rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
 
 ---
