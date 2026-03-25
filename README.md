@@ -348,3 +348,24 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and I am currently completing an MS in Cybersecurity Management. I founded **Logika Coders** — a technology company focused on machine learning, quantum computing research, and ethical retail automation.
 
+
+---
+
+## ⚖️ Intellectual Property & Legal Notice
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge" alt="CC BY-NC-ND 4.0"/></a>
+  <img src="https://img.shields.io/badge/GPG-Signed%20Commits-22C55E?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Signed"/>
+  <img src="https://img.shields.io/badge/DMCA-Protected-DC2626?style=for-the-badge" alt="DMCA Protected"/>
+</p>
+
+All content in this repository and across my GitHub profile is the **original work of Anél Henning**, created and documented through timestamped, verifiable Git commits.
+
+- **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — You may view and share with attribution, but may not modify or use commercially.
+- **Copyright:** © 2026 Anél Henning / Logika Coders, Tampa, Florida. All rights reserved.
+- **Legal protections:** U.S. Copyright Law (17 U.S.C.), Florida Right of Publicity (§ 540.08), DMCA (17 U.S.C. § 512)
+- **AI/Deepfake notice:** Unauthorized AI-generated derivatives, synthetic media, or digital impersonation of the author will be pursued under applicable state and federal law.
+
+> Unauthorized reproduction, modification, or distribution of this work — including plagiarism, AI-generated copies, or identity impersonation — will result in DMCA takedown notices and legal action where applicable.
+
+To report unauthorized use: **anelhenning2@student.purdueglobal.edu**
