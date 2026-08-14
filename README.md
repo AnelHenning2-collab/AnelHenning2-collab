@@ -31,8 +31,6 @@ I'm a **Compliance Documentation / Instruction Designer** based in Tampa, Florid
 
 ## Services & Deliverables
 
-I work with CEOs and technical leaders who are exploring **machine learning and quantum‑inspired products** with a strong **cybersecurity** and **data analysis** foundation. [file:107][cite:3]
-
 ### Cybersecurity & Risk Deliverables
 
 - **Penetration testing briefs** – concise executive summaries of vulnerabilities, business impact, and remediation priorities.
@@ -40,14 +38,14 @@ I work with CEOs and technical leaders who are exploring **machine learning and 
 - **Incident response playbooks** – roles, runbooks, and communication trees tailored to high‑impact scenarios.
 - **Risk assessment reports** – quantitative/qualitative risk scoring using data analysis in Excel/R/Tableau.
 
-Compliance Documentation and Risk Register | Instructional Design (ADDIE Model) | Technical and Process
-Writing | Creative Direction and Brand Identity | Campaign and Project Traffic Management | Business
-Outreach and Proposal | Adobe Creative Suite / Figma | AI-Assisted Research (Claude, ChatGPT, Perplexity,
-and Turnitin) | Plain-Language Translation of Technical Content | Client and Stakeholder Communication
+Compliance Documentation and Risk Register | Instructional Design (ADDIE Model)
+Technical and Process Writing | Creative Direction and Brand Identity | Campaign and Project Traffic Management 
+Business Outreach and Proposal | Adobe Creative Suite / Figma | AI-Assisted Research (Claude, ChatGPT, Perplexity, and Turnitin) 
+Plain-Language Translation of Technical Content | Client and Stakeholder Communication
 
 ---
 
-## ⭐ Flagship Project — LogikaQBits Token Factory
+## Flagship Project — LogikaQBits Token Factory
 
 <table>
 <tr>
@@ -209,7 +207,7 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 
 ---
 
-## 🖥️ Computer Science Portfolio — Rasmussen University
+## Computer Science Portfolio — Rasmussen University
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
@@ -288,24 +286,6 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-### Quantum Computing
-<p>
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Qiskit"/>
-  <img src="https://img.shields.io/badge/QAOA-00D4FF?style=for-the-badge&logo=atom&logoColor=white" alt="QAOA"/>
-  <img src="https://img.shields.io/badge/QSVM-9C27B0?style=for-the-badge&logo=atom&logoColor=white" alt="QSVM"/>
-</p>
-
 ### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -321,9 +301,9 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**⭐ LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
-| [**⭐ purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
-| [**⭐ rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
+| [** LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
+| [** purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
+| [** rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
 
 ---
@@ -332,14 +312,14 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 ---
 
-## 🧱 Foundations
+## Foundations
 
-My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and I am currently completing an MS in Cybersecurity Management. I founded **Logika Coders** — a technology company focused on machine learning, quantum computing research, and ethical retail automation.
+My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and I am currently completing an MS in Cybersecurity Management.  
 
 
 ---
 
-## ⚖️ Intellectual Property & Legal Notice
+## Intellectual Property & Legal Notice
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge" alt="CC BY-NC-ND 4.0"/></a>
