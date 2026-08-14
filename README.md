@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Anel Henning – Cybersecurity & ML Engineer" width="100%" />
+  <img src="assets/banner.png" alt="Anél Henning – Compliance Documentation + Instructional Design" width="100%" />
 </p>
 
 <!-- Animated greeting -->
