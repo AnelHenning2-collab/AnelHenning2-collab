@@ -19,20 +19,17 @@
 
 ## About Me
 
-I'm a **Cybersecurity Machine Learning Engineer** based in Tampa, Florida — working at the crossroads of AI, security, and blockchain infrastructure. I build systems that detect, classify, and respond to threats using machine learning, and I design decentralized token infrastructure aligned with the latest advances in AI inference computing. [cite:3]
+I'm a **Compliance Documentation / Instruction Designer** based in Tampa, Florida — a versatile, process-driven professional with twenty years of experience in compliance documentation, creative direction, instructional design, technical writing, and marketing/campaign coordination.
 
-- 🎯 Currently preparing for the **CompTIA Security+** exam (target: June 2026) [cite:3]
-- 🧠 Self-teaching **Deep Learning** through structured Cornell note-taking + spaced repetition [cite:3]
-- 🔬 Building a portfolio around **Quantum ML**, **threat detection**, and **blockchain token infrastructure** [cite:3]
-- ⚡ Aligned with **NVIDIA GTC 2026** themes: token factory efficiency, inference scaling, and deep learning augmentation [cite:3]
-- 📚 Studying from: *Hands-On ML with Scikit-Learn, Keras & TensorFlow* · Andrew Ng's Deep Learning Specialization [cite:3]
-- 🎓 Enrolled at **Purdue Global** — Cybersecurity focus [cite:3]
-
-> *"The token is the basic unit of modern AI."* — Jensen Huang, NVIDIA GTC 2026 [cite:3]
+- Curated instructional lectures teaching compliance and cybersecurity concepts to non-technical audiences
+- Wrote and presented self-publishing courses via PowerPoint, Wyzant, and Coursera
+- Led concept and experience design for Glidecart, a robotic retail concept vehicle, and designed
+- Prototyped TransitionTrack, an original project-management app, in Adobe XD and Figma
+- Received honorable mention in Adobe's Inktober 2018, published on Adobe Dimension's official site
 
 ---
 
-## 🛠️ Services & Deliverables
+## Services & Deliverables
 
 I work with CEOs and technical leaders who are exploring **machine learning and quantum‑inspired products** with a strong **cybersecurity** and **data analysis** foundation. [file:107][cite:3]
 
@@ -43,19 +40,10 @@ I work with CEOs and technical leaders who are exploring **machine learning and 
 - **Incident response playbooks** – roles, runbooks, and communication trees tailored to high‑impact scenarios.
 - **Risk assessment reports** – quantitative/qualitative risk scoring using data analysis in Excel/R/Tableau.
 
-### ML / Quantum Product Strategy
-
-- **ML/quantum concept notes** – 2–4 page documents framing use cases, data requirements, and constraints.
-- **Threat models for AI/quantum systems** – attack surfaces, abuse cases, and mitigations.
-- **Data pipeline & logging specs** – what to collect, how to structure it, and how to use it for detection and metrics.
-- **Security architecture outlines** – how crypto, key management, and access control wrap around ML/quantum workloads.
-
-### Technical Documentation & Analysis
-
-- **Technical white papers** – APA‑style write‑ups connecting product ideas with current research.
-- **Architecture diagrams & network schemas** – Visio diagrams for systems, networks, and security zones.
-- **Metrics dashboards & reports** – KPI definitions and starter Tableau/Excel views for security and product health.
-- **Project scopes & timelines** – Gantt‑style scopes with milestones, dependencies, and QA checkpoints.
+Compliance Documentation and Risk Register | Instructional Design (ADDIE Model) | Technical and Process
+Writing | Creative Direction and Brand Identity | Campaign and Project Traffic Management | Business
+Outreach and Proposal | Adobe Creative Suite / Figma | AI-Assisted Research (Claude, ChatGPT, Perplexity,
+and Turnitin) | Plain-Language Translation of Technical Content | Client and Stakeholder Communication
 
 ---
 
@@ -127,7 +115,7 @@ An autonomous shopping and delivery vehicle concept for grocery logistics — qu
 
 ---
 
-## 🔬 GlideCart Research Labs — Quantum Computing PhD Prep
+## GlideCart Research Labs — Quantum Computing PhD Prep
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
@@ -152,7 +140,7 @@ Four labs, each tied directly to one research question in the PhD thesis stateme
 
 ---
 
-## 📚 Logical Learning – CompTIA Security+ and CompTIA Pen+ Study Site
+## Logical Learning – CompTIA Security+ and CompTIA Pen+ Study Site
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/" target="_blank">
@@ -175,7 +163,7 @@ An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, w
 
 ---
 
-## 🔐 Cybersecurity Portfolio — Purdue Global
+## Cybersecurity Portfolio — Purdue Global
 
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
