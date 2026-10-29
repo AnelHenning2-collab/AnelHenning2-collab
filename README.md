@@ -336,4 +336,4 @@ All content in this repository and across my GitHub profile is the **original wo
 
 > Unauthorized reproduction, modification, or distribution of this work — including plagiarism, AI-generated copies, or identity impersonation — will result in DMCA takedown notices and legal action where applicable.
 
-To report unauthorized use: **anelhenning2@student.purdueglobal.edu**
+To report unauthorized use: **logicalcoders@outlook.com**
