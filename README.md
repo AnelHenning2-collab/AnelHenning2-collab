@@ -51,7 +51,7 @@ Plain-Language Translation of Technical Content | Client and Stakeholder Communi
 <tr>
 <td width="60%">
 
-### [LogikaQBits – Solana Token-2022 dApp](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)
+### LogikaQBits – Solana Token-2022 dApp 🔒
 
 A production-grade **token factory** built on Solana using the Token-2022 program — a full-stack dApp that mints, augments, and deploys on-chain tokens through a guided multi-step interface. [cite:3]
 
@@ -61,7 +61,7 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 - Deep learning token augmentation — inference throughput mapped to on-chain mint pipeline
 - Authority revocation = frozen model weights — immutable, trustless supply
 
-**[View Repo →](https://github.com/AnelHenning2-collab/LogikaQBits-dApp)** &nbsp;|&nbsp; **[Live Demo →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)**
+**🔒 Private repo — [request access →](https://anelhenning2-collab.github.io/contact-hub/)**
 
 </td>
 <td width="40%" align="center">
@@ -168,10 +168,6 @@ An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, w
     <img src="https://img.shields.io/badge/View_Cybersecurity_Portfolio-Live%20Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://github.com/AnelHenning2-collab/purdue-grad-samples-2026" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repo-purdue--grad--samples--2026-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Purdue Repo"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/AnelHenning2-collab/PurdueGlobal" target="_blank">
     <img src="https://img.shields.io/badge/Assignment_Folders-PurdueGlobal-8b6914?style=for-the-badge&logo=github&logoColor=white" alt="PurdueGlobal Repo"/>
   </a>
@@ -212,10 +208,6 @@ A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybe
 <p align="center">
   <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
     <img src="https://img.shields.io/badge/View_CS_Portfolio-Live%20Site-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="CS Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AnelHenning2-collab/rasmussen-cs-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repo-rasmussen--cs--portfolio-30363d?style=for-the-badge&logo=github&logoColor=white" alt="CS Repo"/>
   </a>
 </p>
 
@@ -301,7 +293,7 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [** LogikaQBits-dApp**](https://github.com/AnelHenning2-collab/LogikaQBits-dApp) | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🟢 Live |
+| **LogikaQBits-dApp** 🔒 | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🔒 Private · [request access](https://anelhenning2-collab.github.io/contact-hub/) |
 | [** purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
 | [** rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
