@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Anél Henning – Compliance Documentation + Instructional Design" width="100%" />
+  <img src="assets/banner.png" alt="Anèl Henning – Compliance Documentation + Instructional Design" width="100%" />
 </p>
 
 <!-- Animated greeting -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anél+Henning+%F0%9F%91%8B;Compliance Documentation+Instructional Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anèl+Henning+%F0%9F%91%8B;Compliance Documentation+Instructional Design" alt="Typing SVG" />
 </h1>
 
 <!-- Identity + Contact — single flowing badge strip -->
@@ -319,10 +319,10 @@ My background spans graphic design, software engineering, and cybersecurity. I h
   <img src="https://img.shields.io/badge/DMCA-Protected-DC2626?style=for-the-badge" alt="DMCA Protected"/>
 </p>
 
-All content in this repository and across my GitHub profile is the **original work of Anél Henning**, created and documented through timestamped, verifiable Git commits.
+All content in this repository and across my GitHub profile is the **original work of Anèl Henning**, created and documented through timestamped, verifiable Git commits.
 
 - **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — You may view and share with attribution, but may not modify or use commercially.
-- **Copyright:** © 2026 Anél Henning / Logika Coders, Tampa, Florida. All rights reserved.
+- **Copyright:** © 2026 Anèl Henning / Logika Coders, Tampa, Florida. All rights reserved.
 - **Legal protections:** U.S. Copyright Law (17 U.S.C.), Florida Right of Publicity (§ 540.08), DMCA (17 U.S.C. § 512)
 - **AI/Deepfake notice:** Unauthorized AI-generated derivatives, synthetic media, or digital impersonation of the author will be pursued under applicable state and federal law.
 
