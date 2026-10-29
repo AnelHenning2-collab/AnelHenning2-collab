@@ -177,9 +177,9 @@ An interactive **CompTIA Security+ SY0‑701** study site built for exam prep, w
 <tr>
 <td width="55%">
 
-### [MS Cybersecurity Gallery →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)
+### [MS Cybersecurity Management Gallery →](https://anelhenning2-collab.github.io/logical-learning/showcase.html)
 
-A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. [cite:3]
+A visual gallery of **29 graduate portfolio pages** from Purdue Global's MS Cybersecurity Management program — covering applied statistics, risk analysis, blockchain development, platform security, and client design work. [cite:3]
 
 **Courses covered:**
 - **IN555** Statistics for IT — R/Python statistical analysis
@@ -228,7 +228,7 @@ A visual gallery of **58 portfolio pages** from Rasmussen University's Computer 
 - Web Analytics — Google Analytics, Web 2.0 Conference
 - QA, Networks, OS Architecture, Emerging Technology
 
-> **Track Me — Transition Track concept:** Initially prototyped as an iPhone project‑management app and later formalized as the **Transition Track** enterprise transition‑tracking system in multiple BS CS and MS Cybersecurity white papers, focused on robust database design for large organizations.
+> **Track Me — Transition Track concept:** Initially prototyped as an iPhone project‑management app and later formalized as the **Transition Track** enterprise transition‑tracking system in multiple BS CS and MS Cybersecurity Management white papers, focused on robust database design for large organizations.
 
 </td>
 <td width="45%" align="center">
@@ -294,7 +294,7 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | **LogikaQBits-dApp** 🔒 | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🔒 Private · [request access](https://anelhenning2-collab.github.io/contact-hub/) |
-| [** purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
+| [** purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity Management graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
 | [** rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
 | [**portfolio-samples**](https://github.com/AnelHenning2-collab/portfolio-samples) | Interactive portfolio showcase with project index | Markdown | 🟢 Public |
 
@@ -306,7 +306,7 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 ## Foundations
 
-My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and I am currently completing an MS in Cybersecurity Management.  
+My background spans graphic design, software engineering, and cybersecurity. I hold a BFA in Graphic Design and a BS in Computer Science, and an MS in Cybersecurity Management (2026).  
 
 
 ---
@@ -322,7 +322,7 @@ My background spans graphic design, software engineering, and cybersecurity. I h
 All content in this repository and across my GitHub profile is the **original work of Anèl Henning**, created and documented through timestamped, verifiable Git commits.
 
 - **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — You may view and share with attribution, but may not modify or use commercially.
-- **Copyright:** © 2026 Anèl Henning / Logika Coders, Tampa, Florida. All rights reserved.
+- **Copyright:** © 2026 Anèl Henning / Logical Coders, Tampa, Florida. All rights reserved.
 - **Legal protections:** U.S. Copyright Law (17 U.S.C.), Florida Right of Publicity (§ 540.08), DMCA (17 U.S.C. § 512)
 - **AI/Deepfake notice:** Unauthorized AI-generated derivatives, synthetic media, or digital impersonation of the author will be pursued under applicable state and federal law.
 
