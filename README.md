@@ -17,14 +17,71 @@
 
 ---
 
-## About Me
+## Apps I Designed
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><a href="https://anelhenning2-collab.github.io/portfolio/apps/transitiontrack/"><img src="https://anelhenning2-collab.github.io/portfolio/apps/transitiontrack/icon.svg" width="72" alt="TransitionTrack app icon"/></a></p>
+
+### TransitionTrack
+
+**Track a career or life change the way a project manager tracks a launch. Your data stays on your device.**
+
+A mobile-first web app for career changers, returning workers and students: goals with milestones, a time log, job tickets, gap analysis, notecards, a journal and a weekly check-in. No account, no server, no tracking.
+
+- **16 screens** in one 43 KB file, no framework
+- **0 bytes** of personal data sent to a server
+- **54 test runs across 6 time zones**, 50 passed; a time-zone bug found and fixed
+- **Designed next:** an on-device AI coach, private voice commands and six on-phone ML models
+
+**My role:** concept, UX research, visual design, front-end build, privacy design, testing<br/>
+**Built with:** HTML, CSS, JavaScript · installable web app · data stored on the device
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/portfolio/apps/transitiontrack/"><img src="https://img.shields.io/badge/Open_the_App-Live-C24A28?style=for-the-badge" alt="Open TransitionTrack"/></a>
+  <a href="https://anelhenning2-collab.github.io/portfolio/case-studies/102926_TransitionTrack_Case_Study_Anel_Henning.pdf"><img src="https://img.shields.io/badge/Case_Study-PDF-30363d?style=for-the-badge" alt="TransitionTrack case study (PDF)"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><a href="https://anelhenning2-collab.github.io/portfolio/apps/glidecart/"><img src="https://anelhenning2-collab.github.io/portfolio/company-icons/glidecart-line-drawing.svg" width="72" alt="GlideCart drawing"/></a></p>
+
+### GlideCart
+
+**A smart grocery cart that plans the shortest route, listens on request, and keeps shopper data to itself.**
+
+A concept cart with a handle screen that leads the shopper through the store on the shortest walk, blocks tampered price files, and keeps cameras on products and audio on the cart.
+
+- **54% shorter walk** on the demo list (216 m to 99 m)
+- **12 of 12** automated tests passed on the shipped code
+- **97%** of small lists routed perfectly, checked by brute force
+- **2.7 ms** to plan a full 16-item route
+
+**My role:** concept, research, UX/UI design, front-end build, routing algorithm, security review, testing<br/>
+**Built with:** HTML, CSS, JavaScript · SVG store maps · shortest-path routing · Web Crypto
+
+<p align="center">
+  <a href="https://anelhenning2-collab.github.io/portfolio/apps/glidecart/"><img src="https://img.shields.io/badge/Open_the_App-Live-00B4C8?style=for-the-badge" alt="Open GlideCart"/></a>
+  <a href="https://anelhenning2-collab.github.io/portfolio/case-studies/102926_GlideCart_Case_Study_Anel_Henning.pdf"><img src="https://img.shields.io/badge/Case_Study-PDF-30363d?style=for-the-badge" alt="GlideCart case study (PDF)"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 
 I'm a **Compliance Documentation / Instruction Designer** based in Tampa, Florida — a versatile, process-driven professional with twenty years of experience in compliance documentation, creative direction, instructional design, technical writing, and marketing/campaign coordination.
 
 - Curated instructional lectures teaching compliance and cybersecurity concepts to non-technical audiences
 - Wrote and presented self-publishing courses via PowerPoint, Wyzant, and Coursera
-- Led concept and experience design for Glidecart, a robotic retail concept vehicle, and designed
-- Prototyped TransitionTrack, an original project-management app, in Adobe XD and Figma
+- Led concept and experience design for [GlideCart](https://anelhenning2-collab.github.io/portfolio/apps/glidecart/), a smart grocery cart concept, and designed its shortest-route planner and cart screen ([case study](https://anelhenning2-collab.github.io/portfolio/case-studies/102926_GlideCart_Case_Study_Anel_Henning.pdf))
+- Prototyped [TransitionTrack](https://anelhenning2-collab.github.io/portfolio/apps/transitiontrack/), an original project-management app, in Adobe XD and Figma, then built it as a working web app ([case study](https://anelhenning2-collab.github.io/portfolio/case-studies/102926_TransitionTrack_Case_Study_Anel_Henning.pdf))
 - Received honorable mention in Adobe's Inktober 2018, published on Adobe Dimension's official site
 
 ---
@@ -100,7 +157,7 @@ A production-grade **token factory** built on Solana using the Token-2022 progra
 ## 🛒 GlideCart — Autonomous Retail Vehicle
 
 <p align="center">
-  <a href="https://anelhenning2-collab.github.io/logical-learning/showcase.html" target="_blank">
+  <a href="https://anelhenning2-collab.github.io/portfolio/apps/glidecart/" target="_blank">
     <img src="https://img.shields.io/badge/GlideCart-View_Live_Site-c8a44a?style=for-the-badge&logo=github&logoColor=white" alt="GlideCart"/>
   </a>
   &nbsp;
@@ -293,6 +350,8 @@ Your contribution funds prototyping, pilot deployments, curriculum development, 
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [**TransitionTrack**](https://anelhenning2-collab.github.io/portfolio/apps/transitiontrack/) | Privacy-first career-change tracker app — 16 screens, data stays on the device. [Case study (PDF)](https://anelhenning2-collab.github.io/portfolio/case-studies/102926_TransitionTrack_Case_Study_Anel_Henning.pdf) | HTML, CSS, JS | 🟢 Live |
+| [**GlideCart**](https://anelhenning2-collab.github.io/portfolio/apps/glidecart/) | Smart grocery cart prototype — shortest-route planner and price-file check. [Case study (PDF)](https://anelhenning2-collab.github.io/portfolio/case-studies/102926_GlideCart_Case_Study_Anel_Henning.pdf) | HTML, CSS, JS | 🟢 Live |
 | **LogikaQBits-dApp** 🔒 | Token factory dApp — Solana Token-2022, on-chain metadata, authority revocation, Ethereum escrow. NVIDIA GTC 2026 aligned. | Solana, Solidity, JS | 🔒 Private · [request access](https://anelhenning2-collab.github.io/contact-hub/) |
 | [** purdue-grad-samples-2026**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | MS Cybersecurity Management graduate portfolio — 29 pages, 6+ courses covering threat analysis, blockchain dev, risk assessment, and platform security | Python, R, Security | 🟢 Live Gallery ↗ |
 | [** rasmussen-cs-portfolio**](https://anelhenning2-collab.github.io/logical-learning/showcase.html) | Computer Science BS portfolio — 58 pages, 15+ courses covering Java, databases, software engineering, networks, and QA | Java, MySQL, Python | 🟢 Live Gallery ↗ |
