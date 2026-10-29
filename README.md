@@ -5,7 +5,7 @@
 
 <!-- Animated greeting -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anèl+Henning+%F0%9F%91%8B;Compliance Documentation+Instructional Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+An%C3%A8l+Henning+%F0%9F%91%8B;Compliance+Documentation+%2B+Instructional+Design" alt="Typing SVG" />
 </h1>
 
 <!-- Identity + Contact — single flowing badge strip -->
